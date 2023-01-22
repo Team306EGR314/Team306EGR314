@@ -1,5 +1,5 @@
-## EGR 314
-
+## EGR 314 Team 306
+Jedriq Ventura, Sam Stiffler, Nathan Hoge, Dylan Turner
 # Spring 2023
-Jedriq, Sam, Nathan, Dylan
+This project was made for ASU
 permalink: /index.html
