@@ -4,4 +4,4 @@ Jedriq Ventura, Sam Stiffler, Nathan Hoge, Dylan Turner
 This project was made for ASU
 
 
-permalink: /index.html
+
