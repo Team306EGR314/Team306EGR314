@@ -64,4 +64,16 @@ electronics. (This will store the Battery, Regulators, and Motor.) Our sensors a
 or greenhouse, and you could get readings at any point from something like your phone. You would be able to send a signal from an app or something which would tell the 
 motor to do a swing and take a measure. The measurements given back to you would give you temperature and humidity readings.
 
+# Our Process
+  
   </div>
+  
+ We had each put some contribution in each of the designs but each design can be credited (in order) to 1 Jedriq Ventura, 2 Samuel Stiffler, 3 Nathan Hoge. Dylan made the contribution of explaining our ideas, and getting them onto the github.
+ 
+ For brainstorming we had given a couple thoughts based on what we had seen in the previous user needs assignment. Concept one was a pill 
+ shape that was wind resistant, and it would be super portable, it was based on the beats pill speaker. Concept 2 is a latern style 
+ hanger, this was inspired by a humming bird feeder. This would be able to hang in any green house and stays in place collecting 
+ information. Concept 3 was an off the wall idea of a "wagging thermometer" this would collect information by waving the arm and starting 
+ the collection and ending the collection at the end of the arms path.
+
+It was better to have the ideas but holding to them was way harder. Because we had to make choices based on what is and isnt important. For instance each device is suited for different environments, concept 1 would be on the go, concept 2 would be a hang and stay, finally concept 3 would be a place and sit.
