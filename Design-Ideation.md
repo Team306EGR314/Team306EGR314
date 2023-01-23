@@ -8,6 +8,7 @@
 
 <img src="Grouped Concepts 1.png">
 <img src="Grouped Concepts 2.png">
+
 # Ranked Concepts
 
 <img src="Ranked Concepts 1.png">
