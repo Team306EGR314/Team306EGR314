@@ -240,12 +240,20 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 
 # User Needs
 
-</div> 
-
 ## Notes
+
+### Raw Notes
 
 <img src="User Needs 1.png">
 <img src="User Needs 2.png">
+
+### Ranked Notes
+
+<img src="photosandvideos/Ranked Notes.png">
+
+<img src="photosandvideos/Ranked Notes 2.png">
+
+</div> 
 
 <div align="center">
 
