@@ -1,7 +1,9 @@
 ## EGR 314 Team 306
 Jedriq Ventura, Sam Stiffler, Nathan Hoge, Dylan Turner
 # Spring 2023
-This project was made for our ASU 314 Class 
+Arizona State University
+EGR314
+Professor Travis Kelley
 
 Below you will find our relevant links and Assignments
 
