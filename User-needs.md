@@ -247,7 +247,12 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 <img src="User Needs 1.png">
 <img src="User Needs 2.png">
 
+<div align="center">
 
+# our process
+
+</div>	
+	
 ## Requirements
 
 <div align= "center">
