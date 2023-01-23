@@ -250,10 +250,11 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 <div align="center">
 
 # our process
-
-</div>	
+	
 	
 ## Requirements
+
+</div>
 
 <div align= "center">
 
