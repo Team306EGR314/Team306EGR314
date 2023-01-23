@@ -23,5 +23,5 @@ Below you will find our relevant links and Assignments ↓↓↓
 ## [Assignment 2 (User Needs and Benchmarking)](User-needs.md)
 ## [Assignment 3 (Design Ideation)](Design-Ideation.md)
 ## [Assignment 4(Presentation Slides and Link)](Presentation.md)
-## [Appendix (Other Important Components of Our Project)](Presentation.md)
+## [Appendix (Stuff That Couldn't )](Appendix.md)
 </div>
