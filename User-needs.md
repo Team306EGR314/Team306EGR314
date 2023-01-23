@@ -219,6 +219,7 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 - when disconnected from wifi can’t update
 - Quality can’t withstand the weathering
 
+<div align="center">
 
 ### Stakeholders
 - Target Group
@@ -236,7 +237,9 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 - Mouser
 - Digikey
 
-#### User Needs
+# User Needs
+
+</div> 
 
 ## Notes
 
