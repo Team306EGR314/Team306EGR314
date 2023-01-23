@@ -113,6 +113,7 @@ The weather station has many faults towards its transportation of parts and manu
 <img src="image (2).png">
 
 [Search: “Mobile Weather Station Moving Solar Panel”](https://www.amazon.com/Crosse-Technology-S81120-INT-Wireless-Weather/dp/B084NXZQSS)
+
 Price: $137.95
 
 Vendor: Amazon
