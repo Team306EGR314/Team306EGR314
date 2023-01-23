@@ -24,7 +24,7 @@ Price: $159.99
 
 Vendor: Amazon
 
-Positive Comments:
+### Positive Comments:
 
 “The first time I went through this it probably took me half an hour because I did it piece by piece, including setting up my Wunderground account, while carefully reading the directions. If I was to blank it out and start over, it would take me less than five minutes now.”
 
@@ -32,23 +32,29 @@ Positive Comments:
 
 “I love this weather station but it’s a small but, the set up was a little confusing but if you take your time and be patient you can get through it. Because I live in Canada I had to change everything to Celsius and kilometers per hour on the wind function.”
 
-Pros:
+### Pros:
 Many different sensors to cover a wide array of data
 All conveniently displayed on one screen
 Wireless sensors that connect to a main hub
 Straight forward functionality once setup is complete
 
 This weather station is feature packed with a wide array of sensor options for the end user to utilize. These sensors are all conveniently put on one display for the user for maximum convenience.
-Negative Comments:
+
+### Negative Comments:
+
 “I found that setting up the clock on this unit was by far the most difficult and also the most critical for other functions such as moon phase and sun rise sun set”
+
 “Wind-speed spinner no longer measures wind speeds as it's bearing seems to have worn out. The 1 year warranty has only just expired a month ago”
+
 “The display console also has it's drawbacks. While cool looking with lots of data, the display keeps the same light level all the time. You have to manually change the brightness on the back of the device. “
 
-Cons:
-Has issues with connectivity
-Sensors don’t give outputs
-Common parts failures in moving parts
-Poor Screen quality
+
+### Cons:
+
+- Has issues with connectivity
+- Sensors don’t give outputs
+- Common parts failures in moving parts
+- Poor Screen quality
 
 This weather station does not have the best reputation for quality of individual components with many people reporting failures. Connectivity between sensors also seems to be a common theme between end user experiences, and while the screen does have to display a lot, it does so with poor quality.
 
@@ -68,7 +74,7 @@ Vendor: Amazon
 
 Description : The acurite Iris weather station. Is an easy to access and easy toread display. It is able to have a  Weather Overview dashboard,that receives readings of outdoor temperature, humidity, wind speed and direction, barometric pressure trends, and rainfall total.
 
-Positive Comments:
+### Positive Comments:
 
 “Just what I was looking for. It’s so much easier to read and change screens. The description showed NO batteries. I know it is solar, so didn’t think I needed any.”
 
@@ -77,21 +83,24 @@ Positive Comments:
 “he Acurite system checked all the boxes for me including WU connectivity, programming from my phone and the ability to connect through a metal roof, etc. by having the add-on signal repeater that can insure a strong signal.”
 
 
-Pros:
-High definition display allows it to be viewed in many angles
-built-in sensors that measure barometric pressure, along with indoor temperature and humidity
-captures relevant weather data reliably
+### Pros:
+- High definition display allows it to be viewed in many angles
+- built-in sensors that measure barometric pressure, along with indoor temperature and humidity
+- captures relevant weather data reliably
 
 The weather station is very compliant and compact. It arranges large sets of data gathered into a small yet legible screen display. The built in sensors allow for readings without interference from other parts nor the casing the sensors are in. This allows for a smoother collecting of data being gathered.
-Negative Comments:
+
+### Negative Comments:
 “To orient the photovoltaic cell correctly in the Southern hemisphere it needed to be facing North instead of South, so I needed to reposition the wind vane 180 degrees because there is no software setting to do this.”
+
 “Sometimes inaccurate. Slow to react or freezes; during gusty, changing winds it will show one wind speed for up to 30 minutes”
+
 “Ordered an Acurite weather station through Amazon Australia, as it was through the Australian branch I expected the power plugs to be Australian not US, the unit also does not have Australia as a time zone only the US. Very disappointed”
 
-Cons:
-Has a negative reaction when placed near coastal areas
-Slow reaction to below freezing weather and gusty storm winds
-Certain parts delivered in a certain country may not be as effective
+### Cons:
+- Has a negative reaction when placed near coastal areas
+- Slow reaction to below freezing weather and gusty storm winds
+- Certain parts delivered in a certain country may not be as effective
 
 The weather station has many faults towards its transportation of parts and manufacturing aspects. The parts given seem to not all be universally the same and overall, it seems that depending on where you order from certain aspects of its power source change as well.
 
@@ -105,22 +114,22 @@ The weather station has many faults towards its transportation of parts and manu
 
 [Search: “Mobile Weather Station Moving Solar Panel”](https://www.amazon.com/Crosse-Technology-S81120-INT-Wireless-Weather/dp/B084NXZQSS)
 Price: $137.95
-Vendor: Amazon
-Description: Solar-Powered Mobile weather station capable of recording wind speed, wind direction, temperature, and humidity. Connected to Wireless display to view all previously mentioned measurements.
 
-Table III
+Vendor: Amazon
+
+Description: Solar-Powered Mobile weather station capable of recording wind speed, wind direction, temperature, and humidity. Connected to Wireless display to view all previously mentioned measurements.
 
 Item 3 Pros and Cons based on feedback
 
-Positive Comments: 
+### Positive Comments: 
 “I got this handy weather station as a gift for my husband. Now we are all enjoying it as we can see information for the temperature both inside and outside the house. It also tells humidity which is handy in the winter. We live in a windy area so it is fun to see just how fast the wind is blowing. It also gives the wind direction. It is easy to mount outside the house on a post and is solar powered so you don't need to change the outside batteries. This was an inexpensive and handy purchase that is lots of fun to use!”
 
-Pros:
+### Pros:
 -accurately reads data without exposer to elements
 -keep the device inexpensive to reach a wider consumer base
 -easy to setup
 
-Negative Comments:
+### Negative Comments:
 “This unit worked for awhile then the outside sensor would work intermittently...
 So I replaced the ML2032 battery (fully charged) and the sensor is still intermittent...
 And of course I can't return it to Amazon as I am past the return date.
@@ -128,7 +137,7 @@ This is the second time that I purchased a La Crosse Technology device and was d
 It ended up in the trash…”
        
 
-Cons:
+### Cons:
 -spotty readings that weren’t consistent
 -issues with battery connection or solar power
 -the unit’s life span is farely short
@@ -142,9 +151,10 @@ Cons:
 <img src="image (3).png">
 
 [Search: “Weather Station”](https://www.amazon.com/Extech-WTH600-KIT-Weather-Station-Kit/dp/B076CK7VFX)
+
 Price: $149.99
+
 Vendor: Amazon
-Link: https://www.amazon.com/Extech-WTH600-KIT-Weather-Station-Kit/dp/B076CK7VFX
 
 Description: WTH600-KIT is a professional weather station with integrated 5-in-1 sensor. The wireless 5-in-1 sensor contains a self-emptying rain Collector for 
 measuring rainfall, Anemometer, wind vane, temperature and humidity sensors. It is fully assembled and calibrated for your easy installation. It sends data by a low 
@@ -152,18 +162,24 @@ power radio frequency (915MHz) to the display main unit up to 450 ft (150M) away
 and Barometric pressure.
 
 “Finding this not so common part was a breeze. I hope the two day shipping is legit. Thanks irregardless.”
-““Best price, easy to order, always been good in the past”
-Pros:
-The device has an easy to read display, with all info present.
-The weather station has more than one sensor and data is provided.
-Easy to setup and remove.
+
+“Best price, easy to order, always been good in the past”
+
+### Pros:
+- The device has an easy to read display, with all info present.
+- The weather station has more than one sensor and data is provided.
+- Easy to setup and remove.
 
 This Device is easily set up, and doesn't fly away. The data is readily available, and easy to read. The device comes with a remote that gives data, so you don't have 
 to be near it. 
+
+
 “I never had issues before with GTS. This time I did contact support to confirm and be sure of the choice, but this little issue put me in a lot of troubles.”
+
 “Gary, we use a flat rate shipping fee per State on orders under $99; orders over that amount, we can offer free ground shipping. We understand it is isn't always 
-ideal, “
-Cons: 
+ideal,"
+
+### Cons: 
 The quality needs to be there, when considering moving parts, it's best to know its limits and design accordingly.
 Plastic housing is fine, but it's also important to keep in mind that this station is meant to be outside so problems like plastic erosion is possible when left out 
 long enough. 
@@ -186,23 +202,22 @@ Price: $329.00
 
 Vendor: Amazon
 
-Link: https://www.amazon.com/Tempest-Weather-Accurate-Forecasts-Wireless/dp/B0868WY7NY/ref=sr_1_3?
-keywords=tempest+weather+station&qid=1674076578&sprefix=Tempest+%2Caps%2C153&sr=8-3
+
 Description: As featured in the Wall Street Journal, CBS Innovation Nation, Bob Villa and Wired, Tempest reports temperature, solar radiation and UV, humidity, 
 barometric pressure, wind speed and direction, dew point, lightning strikes, rainfall and more.
 
-Pros: 
-Controlled via an app
-App has all data collected by device
-Device is not internet reliant, and can be connected to via bluetooth as well
-Super easy set up
-Much more compact than other models.
+### Pros: 
+- Controlled via an app
+- App has all data collected by device
+- Device is not internet reliant, and can be connected to via bluetooth as well
+- Super easy set up
+- Much more compact than other models.
 
-Cons:
-Battery life is not there, charge could take hours, because its solar powered, and runs out quickly
-Data is processed so unsure if its giving accurate reading
-when disconnected from wifi can’t update
-Quality can’t withstand the weathering
+### Cons:
+- Battery life is not there, charge could take hours, because its solar powered, and runs out quickly
+- Data is processed so unsure if its giving accurate reading
+- when disconnected from wifi can’t update
+- Quality can’t withstand the weathering
 
 
 ### Stakeholders
