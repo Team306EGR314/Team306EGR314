@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # EGR 314 Team 306
 
@@ -24,3 +24,4 @@ Below you will find our relevant links and Assignments ↓↓↓
 ## [assignment 3 (Design Ideation)](Design-Ideation.md)
 ## [assignment 4(Presentation Slides and Link)](Presentation.md)
 
+</div>
