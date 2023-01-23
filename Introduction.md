@@ -1,9 +1,13 @@
-## assignment 1
+# Assignment 1
 
 ## Team Charter
 
-Charter
 
+
+<div align="center">
+
+### Charter
+  
 ● Produce systems that can respond to the environment using serial sensing and
 actuation.
 
@@ -20,7 +24,9 @@ for communication between the systems.
 ● We will have an interdependency system between team members for each
 system. This will entail a main and secondary person on each subsystem.
 
-Mission Statement
+</div>
+  
+### Mission Statement
 
 Our team is tasked with making a mobile weather station, with applications of at least two
 sensors, switching regulator, and motor articulation dependent on sensor input. Success in this
