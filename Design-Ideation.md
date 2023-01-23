@@ -1,20 +1,23 @@
-## Assignment 4
-Generation of Concepts
-Raw Concepts
-<img src="raw Concepts.png">
-Grouped Concepts
+### Assignment 4
+## Generation of Concepts
+
+# Raw Concepts
+<img src="Raw Concepts.png">
+
+# Grouped Concepts
+
+<img src="Grouped Concepts 1.png">
+<img src="Grouped Concepts 2.png">
+# Ranked Concepts
+
+<img src="Ranked Concepts 1.png">
+<img src="Ranked Concepts 2.png">
 
 
-Ranked Concepts
 
+## Product Concept Sketches
 
-
-
-
-
-Product Concept Sketches
-
-Concept 1
+# Concept 1
 
 <img src="Concept idea 1.png">
 
@@ -34,7 +37,7 @@ device if it ever encountered outside damage.
 
 
 
-Concept 2
+# Concept 2
 
 <img src="Concept idea 2.png">
 
@@ -48,7 +51,7 @@ data. At the top of this duct will be a door that opens controlled by a simple 3
 will connect the weather station to the atmosphere. This ducting will be completely removable and work in conjunction with the weather station.
 
 
-Concept 3	
+# Concept 3	
 
 <img src="Concept idea 3.png">
 
