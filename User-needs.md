@@ -10,8 +10,12 @@ The mobile weather station should prove a major challenge and through this, we w
 
 ## Stakeholders
 
-Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts
+<div align="center">
 
+# Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts
+
+</div>	
+	
 <img src="image.png">
 
 Search: “Mobile Weather Station”
@@ -42,8 +46,11 @@ Poor Screen quality
 
 This weather station does not have the best reputation for quality of individual components with many people reporting failures. Connectivity between sensors also seems to be a common theme between end user experiences, and while the screen does have to display a lot, it does so with poor quality.
 
+<div align="center">
 
-Item 2: AcuRite Iris (5-in-1) Professional Weather Station with High-Definition Display, Built-In Barometer, and AcuRite Access for Remote Monitoring and Alerts, Compatible with Amazon Alexa, Black (01151M)
+# Item 2: AcuRite Iris (5-in-1) Professional Weather Station with High-Definition Display, Built-In Barometer, and AcuRite Access for Remote Monitoring and Alerts, Compatible with Amazon Alexa, Black (01151M)
+
+</div>
 
 <img src="image (1).png">
 
@@ -76,9 +83,12 @@ Certain parts delivered in a certain country may not be as effective
 
 The weather station has many faults towards its transportation of parts and manufacturing aspects. The parts given seem to not all be universally the same and overall, it seems that depending on where you order from certain aspects of its power source change as well.
 
+<div align="center">
 
-Item 3: La Crosse Technology S81120-INT Wireless Combo Weather Station with New Breeze Solar Wind Sensor, Black
+# Item 3: La Crosse Technology S81120-INT Wireless Combo Weather Station with New Breeze Solar Wind Sensor, Black
 
+</div>	
+	
 <img src="image (2).png">
 
 Search: “Mobile Weather Station Moving Solar Panel”
@@ -111,9 +121,12 @@ Cons:
 -issues with battery connection or solar power
 -the unit’s life span is farely short
 
+<div align="center">
 
-Item 4: EXTECH Wireless Weather Station
+# Item 4: EXTECH Wireless Weather Station
 
+</div>
+	
 <img src="image (3).png">
 
 Search: “Weather Station”
@@ -147,9 +160,12 @@ Battery life should be long on a device like this because it's meant to be poste
 
 This device was made for the outdoors but fails to prepare for that. The plastic isn't resistant to the sun, The bearings can’t handle always being in motion. 
 
+<div align="center">
 
-Item 5: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled
+# Item 5: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled
 
+</div>	
+	
 <img src="image (4).png">
 
 Search: “Weather system”
