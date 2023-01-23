@@ -18,12 +18,18 @@ The mobile weather station should prove a major challenge and through this, we w
 	
 <img src="image.png">
 
-Search: “Mobile Weather Station”
+[Search: “Mobile Weather Station”](https://www.amazon.com/Logia-Monitoring-Temperature-Humidity-Direction/dp/B0BD68C3W5?th=1)
+
 Price: $159.99
+
 Vendor: Amazon
+
 Positive Comments:
+
 “The first time I went through this it probably took me half an hour because I did it piece by piece, including setting up my Wunderground account, while carefully reading the directions. If I was to blank it out and start over, it would take me less than five minutes now.”
+
 “ The instructions were clear and the sequence for setup ensured that it worked the first time! The outdoor unit was very easy to mount on a pole, and the indoor monitor provides comprehensive and accurate information.”
+
 “I love this weather station but it’s a small but, the set up was a little confusing but if you take your time and be patient you can get through it. Because I live in Canada I had to change everything to Celsius and kilometers per hour on the wind function.”
 
 Pros:
@@ -54,15 +60,21 @@ This weather station does not have the best reputation for quality of individual
 
 <img src="image (1).png">
 
-Search: “Mobile Weather Station
-Price: $215.99
-Vendor: Amazon
-Description : The acurite Iris weather station. Is an easy to access and easy toread display. It is able to have a  Weather Overview dashboard,that receives readings of outdoor temperature, humidity, wind speed and direction, barometric pressure trends, and rainfall total.
-Positive Comments:
-“Just what I was looking for. It’s so much easier to read and change screens. The description showed NO batteries. I know it is solar, so didn’t think I needed any.”
-“Overall a great system, easy to set up, works well. With this newer version with higher quality display, indoor temperature is on a separate screen which you need to either toggle to through the display menu, or put into a multi-screen auto-cycle”
-“he Acurite system checked all the boxes for me including WU connectivity, programming from my phone and the ability to connect through a metal roof, etc. by having the add-on signal repeater that can insure a strong signal.”
+[Search: “Mobile Weather Station"](https://www.amazon.com/AcuRite-Weather-Station-Monitoring-Compatible/dp/B07CBFNG3P)
 
+Price: $215.99
+
+Vendor: Amazon
+
+Description : The acurite Iris weather station. Is an easy to access and easy toread display. It is able to have a  Weather Overview dashboard,that receives readings of outdoor temperature, humidity, wind speed and direction, barometric pressure trends, and rainfall total.
+
+Positive Comments:
+
+“Just what I was looking for. It’s so much easier to read and change screens. The description showed NO batteries. I know it is solar, so didn’t think I needed any.”
+
+“Overall a great system, easy to set up, works well. With this newer version with higher quality display, indoor temperature is on a separate screen which you need to either toggle to through the display menu, or put into a multi-screen auto-cycle”
+
+“he Acurite system checked all the boxes for me including WU connectivity, programming from my phone and the ability to connect through a metal roof, etc. by having the add-on signal repeater that can insure a strong signal.”
 
 
 Pros:
@@ -91,7 +103,7 @@ The weather station has many faults towards its transportation of parts and manu
 	
 <img src="image (2).png">
 
-Search: “Mobile Weather Station Moving Solar Panel”
+[Search: “Mobile Weather Station Moving Solar Panel”](https://www.amazon.com/Crosse-Technology-S81120-INT-Wireless-Weather/dp/B084NXZQSS)
 Price: $137.95
 Vendor: Amazon
 Description: Solar-Powered Mobile weather station capable of recording wind speed, wind direction, temperature, and humidity. Connected to Wireless display to view all previously mentioned measurements.
@@ -114,7 +126,7 @@ So I replaced the ML2032 battery (fully charged) and the sensor is still intermi
 And of course I can't return it to Amazon as I am past the return date.
 This is the second time that I purchased a La Crosse Technology device and was disappointed.
 It ended up in the trash…”
-
+       
 
 Cons:
 -spotty readings that weren’t consistent
@@ -129,7 +141,7 @@ Cons:
 	
 <img src="image (3).png">
 
-Search: “Weather Station”
+[Search: “Weather Station”](https://www.amazon.com/Extech-WTH600-KIT-Weather-Station-Kit/dp/B076CK7VFX)
 Price: $149.99
 Vendor: Amazon
 Link: https://www.amazon.com/Extech-WTH600-KIT-Weather-Station-Kit/dp/B076CK7VFX
@@ -168,7 +180,7 @@ This device was made for the outdoors but fails to prepare for that. The plastic
 	
 <img src="image (4).png">
 
-Search: “Weather system”
+[Search: “Weather system”](https://www.amazon.com/Tempest-Weather-Accurate-Forecasts-Wireless/dp/B0868WY7NY/ref=sr_1_1_sspa?gclid=Cj0KCQiA_bieBhDSARIsADU4zLe3j_PnEjA8I7rkHx6TjKhfbAyVQtHS_wYX5ZRrjvAn8R0PdqrMwOYaAp_KEALw_wcB&hvadid=616989246422&hvdev=c&hvlocphy=9030087&hvnetw=g&hvqmt=e&hvrand=8983508297000195&hvtargid=kwd-857085239451&hydadcr=15280_13597137&keywords=tempest+weather+station&qid=1674515775&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&psc=1&smid=A3RAYC554RKGF9&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOElBTFdWUFpSU1lNJmVuY3J5cHRlZElkPUEwMDg1NTMzMzk5RlZEWVZPR0hXUSZlbmNyeXB0ZWRBZElkPUEwODI1NzY5MVJNQk04U1BISks2VCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 Price: $329.00
 
