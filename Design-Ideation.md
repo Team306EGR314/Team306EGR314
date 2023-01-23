@@ -35,7 +35,7 @@ device if it ever encountered outside damage.
 Concept 2
 
 
-	In our second concept design, we propose utilizing a box shaped hanging weather station. This will utilize a rechargeable and replaceable 3.6v battery platform 
+In our second concept design, we propose utilizing a box shaped hanging weather station. This will utilize a rechargeable and replaceable 3.6v battery platform 
 for power. It will monitor temperature and humidity actively, and vent to the atmosphere to regulate internal temperature and humidity for our end user based upon 
 their settings. It will showcase a welded steel frame that will be line-x coated for superior durability. It will have a lexan window encasing the electronics that 
 will be removable to change batteries, and access all electronic components for any necessary maintenance. On the weather station, simple controls for operation will 
