@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Assignment 4
 ## Generation of Concepts
 
@@ -61,3 +63,5 @@ back and forth. This would be the starting point for our readings, and when the 
 electronics. (This will store the Battery, Regulators, and Motor.) Our sensors are located on the end of the arm. This idea is meant to be placed down like in a garden 
 or greenhouse, and you could get readings at any point from something like your phone. You would be able to send a signal from an app or something which would tell the 
 motor to do a swing and take a measure. The measurements given back to you would give you temperature and humidity readings.
+
+  </div>
