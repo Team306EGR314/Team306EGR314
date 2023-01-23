@@ -1,16 +1,18 @@
-## Assignment 2
+# Assignment 2
 
-Introduction 
+## Introduction 
 
 The team is currently constructing a mobile weather station that would allow production of  systems that can respond to the environment using serial sensing and actuation.  
 
-Objectives
+# Objectives
 
 The mobile weather station should prove a major challenge and through this, we will be able to create a small PCB that has all surface mount parts, using a variety of soldering techniques. This will also be a coding challenge and learning python will be necessary. We hope by the end of this project to have efficiency in both. The code will be needed to make the integration of the microcontrollers and analog sensors seamless and hopefully have a project that self actuates based on the read data. 
 
-Stakeholders
+## Stakeholders
 
 Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts
+
+<img src="image.png">
 
 Search: “Mobile Weather Station”
 Price: $159.99
@@ -42,6 +44,8 @@ This weather station does not have the best reputation for quality of individual
 
 
 Item 2: AcuRite Iris (5-in-1) Professional Weather Station with High-Definition Display, Built-In Barometer, and AcuRite Access for Remote Monitoring and Alerts, Compatible with Amazon Alexa, Black (01151M)
+
+<img src="image (1).png">
 
 Search: “Mobile Weather Station
 Price: $215.99
@@ -75,6 +79,8 @@ The weather station has many faults towards its transportation of parts and manu
 
 Item 3: La Crosse Technology S81120-INT Wireless Combo Weather Station with New Breeze Solar Wind Sensor, Black
 
+<img src="image (2).png">
+
 Search: “Mobile Weather Station Moving Solar Panel”
 Price: $137.95
 Vendor: Amazon
@@ -103,6 +109,7 @@ Cons:
 
 Item 4: EXTECH Wireless Weather Station
 
+<img src="image (3).png">
 
 Search: “Weather Station”
 Price: $149.99
@@ -130,7 +137,7 @@ This device was made for the outdoors but fails to prepare for that. The plastic
 
 Item 5: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled
 
-
+<img src="image (4).png">
 
 Search: “Weather system”
 Price: $329.00
@@ -167,6 +174,8 @@ Mouser
 Digikey
 User Needs
 Notes
+<img src="User Needs 1.png">
+<img src="User Needs 2.png">
 Ranked Notes
 
 Requirements
@@ -178,19 +187,24 @@ Our target end user would be a gardening hobbyist who wants to grow their own pl
 Use case #2:
 
 	Our target end user would be a farmer who wants to tend to their own crops and livestock. This individual would benefit from a mobile weather monitoring device by being able to monitor the outside environment to make choices on how to take care of their crops and livestock. Being able to monitor the outside temperature allows farmers to figure out when crops and livestock might experience temperatures outside their appropriate temperature range and properly adjust accordingly. Being able to monitor the humidity of crops will allow us to figure out the moisture loss from crops and give the farmers an idea on when to properly water their crops.
-Design Aspects
-Hardware
+
+## design aspects
+
+## Hardware
+
 This project must utilize a professionally manufactured pcb board. (E)
 This project must use surface mount components for its electrical circuits.(E)
 This project must incorporate the pic18f chip to control all aspects.(E)
 This device will use a switching regulator for a main source of power.(E)
 This project must have its own power source or utilize an everyday power source. (L)
 This project must be able to go two days without a charge if utilizing an internal power source. (L)
- This project, if utilizing an internal power source, must have the ability to use a common charger or internally charge. (L)
+This project, if utilizing an internal power source, must have the ability to use a common charger or internally charge. (L)
 This project should have fuses, and other fail safes in case of a surge. (L)
 This project must utilize minimal specialty hardware in its design. (L)
 This project will include external usb ports.(E)
-Software
+
+## Software
+
 This project will have seamless integration. (L)
 This project will have an automatic override (If this… then restart) (L)
 This project will have data collected and used.(E)
@@ -206,14 +220,18 @@ This project needs to be able to be in different climates. (L)
 This project will have an app for the user.(E)
 This project will display all sensor data.(E)
 The motor, sensors and power supply will all run in unison. (L)
-Customization
+
+## Customization
+
 This project will be submerged.(E)
 This project will be able to be buried.(E)
 This project will be able to be suspended.(E)
 This project will be able to slip out of its cover to another one.(E)
 This project will include external usb ports.(E)
 This project will have a variety of uses. (L)
-Manufacturing
+
+## Manufacturing
+
 This project must be built within a total budget of 240 dollars.(E)
 This project should be portable.(E)
 This project will have an articulation component.
@@ -235,7 +253,7 @@ This project must be easy to disassemble.(E)
 This project must be able to pass a 6 foot drop test.(E)
 Sensors would be strategically placed all around the device's body allowing for optimal areas of access.(E)
 
-Safety
+## Safety
 The device should be padded and have no sharpness to ensure minimal injury.(E)
 The device should be made in a way to ensure that the user is nor harmed when handling the device. (L)
 This project must have a failsafe if large objects make contact.(E)
@@ -243,17 +261,24 @@ This project will not blow up.(E)
 This project must be able to be partially buried.(E)
 
 
-Milestones
-Project Checkpoint 1 - 1/23
+## Milestones
+### Project Checkpoint 1 - 1/23
 
-Project Checkpoint 2  - 2/27-3/1
 
-PCB manufacturing done by - 3/3
+### Project Checkpoint 2  - 2/27-3/1
 
-Hardware implementation by - 3/3
 
-Software and body made by - 4/20
+### PCB manufacturing done by - 3/3
 
-Project Checkpoint 3/Innovation Showcase - 4/28
+
+### Hardware implementation by - 3/3
+
+
+### Software and body made by - 4/20
+
+
+### Project Checkpoint 3/Innovation Showcase - 4/28
+
 Resources
+
 “How to write a product requirements document (PRD) - with free template,” Formlabs. [Online]. Available: https://formlabs.com/blog/product-requirements-document-prd-with-template/. [Accessed: 22-Jan-2023]. 
