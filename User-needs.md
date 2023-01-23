@@ -249,7 +249,7 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 
 <div align="center">
 
-# our process
+# Our Process
 	
 	
 ## Requirements
