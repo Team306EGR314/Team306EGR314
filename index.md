@@ -20,13 +20,12 @@ This Website will follow our 314 course, and will highlight our assignments.
 
 Below you will find our relevant links and Assignments ↓↓↓
 
+## [Our Team Introduction](Introduction.md)
 
-  ## [Our Team Introduction](Introduction.md)
+## [Assignment 2 (User Needs and Benchmarking)](User-needs.md)
 
-  ## [Assignment 2 (User Needs and Benchmarking)](User-needs.md)
+## [Assignment 3 (Design Ideation)](Design-Ideation.md)
 
-  ## [Assignment 3 (Design Ideation)](Design-Ideation.md)
+## [Assignment 4 (Presentation Slides and Link)](Presentation.md)
 
-  ## [Assignment 4 (Presentation Slides and Link)](Presentation.md)
-
-  ## [Appendix (Stuff That Couldn't Quite Make It)](Appendix.md)
+## [Appendix (Stuff That Couldn't Quite Make It)](Appendix.md)
