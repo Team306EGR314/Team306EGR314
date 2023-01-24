@@ -2,11 +2,11 @@
 # EGR 314 Team 306
 
 
-### Spring 2023
+ **Spring 2023**
 
-  ### Arizona State University
+ **Arizona State University**
 
-  ### Travis Kelley
+ **Travis Kelley**
 
   
 
