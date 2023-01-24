@@ -258,7 +258,10 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 <div align="center">
 
 # Our Process
-	
+
+Our team began brainstorming by committing 10 minute intervals to write down every idea that came to each team member. Our team then compiled all the ideas and 
+compared each other to make sure there was no overlap. Once that was complete, our team compiled it all and began to sort by what our team deemed as a priority, 
+important, would like, or not practical. 
 	
 # Requirements
 
