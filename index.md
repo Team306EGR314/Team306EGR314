@@ -28,4 +28,4 @@ Below you will find our relevant links and Assignments ↓↓↓
 
 ## [Assignment 4 (Presentation Slides and Link)](Presentation.md)
 
-## [Appendix (Stuff That Couldn't Quite Make It)](Appendix.md)
+## [Appendix (Other Relevant Links to Our Project)](Appendix.md)
