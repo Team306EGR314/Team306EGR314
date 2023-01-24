@@ -1,5 +1,6 @@
+</div align="center">
 
-# EGR 314 Team 306
+ # EGR 314 Team 306
 
 
  **Spring 2023**
@@ -29,3 +30,5 @@ Below you will find our relevant links and Assignments ↓↓↓
 [**Assignment 4 (Presentation Slides and Link**)](Presentation.md)
 
 [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
+
+</div>
