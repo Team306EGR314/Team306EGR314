@@ -1,5 +1,3 @@
-</div align="center">
-
  # EGR 314 Team 306
 
 
@@ -31,4 +29,3 @@ Below you will find our relevant links and Assignments ↓↓↓
 
 [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
 
-</div>
