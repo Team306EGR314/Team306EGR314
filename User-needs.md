@@ -60,8 +60,12 @@ This weather station does not have the best reputation for quality of individual
 
 <div align="center">
 
+<br/>
+	
 **Item 2: AcuRite Iris (5-in-1) Professional Weather Station with High-Definition Display, Built-In Barometer, and AcuRite Access for Remote Monitoring and Alerts, Compatible with Amazon Alexa, Black (01151M)**
 
+<br/>
+	
 </div>
 
 <img src="image (1).png">
