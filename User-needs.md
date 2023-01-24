@@ -12,7 +12,7 @@ The mobile weather station should prove a major challenge and through this, we w
 
 <div align="center">
 
-# Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts
+**Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts**
 
 </div>	
 	
@@ -60,7 +60,7 @@ This weather station does not have the best reputation for quality of individual
 
 <div align="center">
 
-# Item 2: AcuRite Iris (5-in-1) Professional Weather Station with High-Definition Display, Built-In Barometer, and AcuRite Access for Remote Monitoring and Alerts, Compatible with Amazon Alexa, Black (01151M)
+**Item 2: AcuRite Iris (5-in-1) Professional Weather Station with High-Definition Display, Built-In Barometer, and AcuRite Access for Remote Monitoring and Alerts, Compatible with Amazon Alexa, Black (01151M)**
 
 </div>
 
@@ -106,7 +106,7 @@ The weather station has many faults towards its transportation of parts and manu
 
 <div align="center">
 
-# Item 3: La Crosse Technology S81120-INT Wireless Combo Weather Station with New Breeze Solar Wind Sensor, Black
+**Item 3: La Crosse Technology S81120-INT Wireless Combo Weather Station with New Breeze Solar Wind Sensor, Black**
 
 </div>	
 	
@@ -150,7 +150,7 @@ It ended up in the trash…”
 
 <div align="center">
 
-# Item 4: EXTECH Wireless Weather Station
+**Item 4: EXTECH Wireless Weather Station**
 
 </div>
 	
@@ -196,7 +196,7 @@ This device was made for the outdoors but fails to prepare for that. The plastic
 
 <div align="center">
 
-# Item 5: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled
+**Item 5: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled**
 
 </div>	
 	
