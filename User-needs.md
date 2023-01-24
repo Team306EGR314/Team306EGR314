@@ -10,11 +10,9 @@ The mobile weather station should prove a major challenge and through this, we w
 
 ## Stakeholders
 
-<div align="center">
 
 **Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts**
 
-</div>	
 	
 <img src="image.png">
 
@@ -58,7 +56,6 @@ This weather station is feature packed with a wide array of sensor options for t
 
 This weather station does not have the best reputation for quality of individual components with many people reporting failures. Connectivity between sensors also seems to be a common theme between end user experiences, and while the screen does have to display a lot, it does so with poor quality.
 
-<div align="center">
 
 <br/>
 	
@@ -66,7 +63,6 @@ This weather station does not have the best reputation for quality of individual
 
 <br/>
 	
-</div>
 
 <img src="image (1).png">
 
@@ -108,12 +104,11 @@ The weather station is very compliant and compact. It arranges large sets of dat
 
 The weather station has many faults towards its transportation of parts and manufacturing aspects. The parts given seem to not all be universally the same and overall, it seems that depending on where you order from certain aspects of its power source change as well.
 
-<div align="center">
+
 
 **Item 3: La Crosse Technology S81120-INT Wireless Combo Weather Station with New Breeze Solar Wind Sensor, Black**
 
-</div>	
-	
+
 <img src="image (2).png">
 
 [Search: “Mobile Weather Station Moving Solar Panel”](https://www.amazon.com/Crosse-Technology-S81120-INT-Wireless-Weather/dp/B084NXZQSS)
@@ -152,11 +147,11 @@ It ended up in the trash…”
 
 - the unit’s life span is farely short
 
-<div align="center">
+
 
 **Item 4: EXTECH Wireless Weather Station**
 
-</div>
+
 	
 <img src="image (3).png">
 
@@ -198,11 +193,11 @@ Battery life should be long on a device like this because it's meant to be poste
 
 This device was made for the outdoors but fails to prepare for that. The plastic isn't resistant to the sun, The bearings can’t handle always being in motion. 
 
-<div align="center">
+
 
 **Item 5: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled**
 
-</div>	
+	
 	
 <img src="image (4).png">
 
@@ -239,7 +234,7 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 - Quality can’t withstand the weathering
 
 
-<div align="center">
+
 
 ### Stakeholders
 - Target Group
@@ -272,9 +267,7 @@ barometric pressure, wind speed and direction, dew point, lightning strikes, rai
 
 <img src="photosandvideos/Ranked Notes 2.png">
 
-</div> 
 
-<div align="center">
 
 # Our Process
 
@@ -284,13 +277,11 @@ important, would like, or not practical.
 	
 # Requirements
 
-</div>
 
-<div align= "center">
 
 ### User Cases
 
-</div>
+
 	
 ### Use case #1: 
 
@@ -307,11 +298,11 @@ being able to monitor the outside environment to make choices on how to take car
 farmers to figure out when crops and livestock might experience temperatures outside their appropriate temperature range and properly adjust accordingly. Being able to 
 monitor the humidity of crops will allow us to figure out the moisture loss from crops and give the farmers an idea on when to properly water their crops.
 
-<div align= "center">
+
 
 ## Design Aspects
 
-</div>	
+
 	
 ## Hardware
 
@@ -405,10 +396,9 @@ monitor the humidity of crops will allow us to figure out the moisture loss from
 
 ### Project Checkpoint 3/Innovation Showcase - 4/28
 
-<div align="center">
 
 # Resources
 	
-</div>	
+
 
 “How to write a product requirements document (PRD) - with free template,” Formlabs. [Online]. Available: https://formlabs.com/blog/product-requirements-document-prd-with-template/. [Accessed: 22-Jan-2023]. 
