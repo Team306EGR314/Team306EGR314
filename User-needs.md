@@ -126,11 +126,11 @@ Item 3 Pros and Cons based on feedback
 “I got this handy weather station as a gift for my husband. Now we are all enjoying it as we can see information for the temperature both inside and outside the house. It also tells humidity which is handy in the winter. We live in a windy area so it is fun to see just how fast the wind is blowing. It also gives the wind direction. It is easy to mount outside the house on a post and is solar powered so you don't need to change the outside batteries. This was an inexpensive and handy purchase that is lots of fun to use!”
 
 ### Pros:
--accurately reads data without exposer to elements
+- accurately reads data without exposer to elements
 
--keep the device inexpensive to reach a wider consumer base
+- keep the device inexpensive to reach a wider consumer base
 
--easy to setup
+- easy to setup
 
 ### Negative Comments:
 “This unit worked for awhile then the outside sensor would work intermittently...
@@ -142,11 +142,11 @@ It ended up in the trash…”
 
 ### Cons:
 
--spotty readings that weren’t consistent
+- spotty readings that weren’t consistent
 
--issues with battery connection or solar power
+- issues with battery connection or solar power
 
--the unit’s life span is farely short
+- the unit’s life span is farely short
 
 <div align="center">
 
