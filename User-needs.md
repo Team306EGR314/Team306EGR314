@@ -33,10 +33,10 @@ Vendor: Amazon
 “I love this weather station but it’s a small but, the set up was a little confusing but if you take your time and be patient you can get through it. Because I live in Canada I had to change everything to Celsius and kilometers per hour on the wind function.”
 
 ### Pros:
-Many different sensors to cover a wide array of data
-All conveniently displayed on one screen
-Wireless sensors that connect to a main hub
-Straight forward functionality once setup is complete
+- Many different sensors to cover a wide array of data
+- All conveniently displayed on one screen
+- Wireless sensors that connect to a main hub
+- Straight forward functionality once setup is complete
 
 This weather station is feature packed with a wide array of sensor options for the end user to utilize. These sensors are all conveniently put on one display for the user for maximum convenience.
 
