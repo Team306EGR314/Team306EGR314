@@ -11,7 +11,7 @@ The mobile weather station should prove a major challenge and through this, we w
 ## Stakeholders
 
 
-**Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar | Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts**
+**Item 1: Logia 7-in-1 Wi-Fi Weather Station with Solar Indoor/Outdoor Remote Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts**
 
 	
 <img src="image.png">
