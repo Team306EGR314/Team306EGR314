@@ -127,7 +127,9 @@ Item 3 Pros and Cons based on feedback
 
 ### Pros:
 -accurately reads data without exposer to elements
+
 -keep the device inexpensive to reach a wider consumer base
+
 -easy to setup
 
 ### Negative Comments:
@@ -139,8 +141,11 @@ It ended up in the trash…”
        
 
 ### Cons:
+
 -spotty readings that weren’t consistent
+
 -issues with battery connection or solar power
+
 -the unit’s life span is farely short
 
 <div align="center">
@@ -208,17 +213,27 @@ Description: As featured in the Wall Street Journal, CBS Innovation Nation, Bob 
 barometric pressure, wind speed and direction, dew point, lightning strikes, rainfall and more.
 
 ### Pros: 
+
 - Controlled via an app
+
 - App has all data collected by device
+
 - Device is not internet reliant, and can be connected to via bluetooth as well
+
 - Super easy set up
+
 - Much more compact than other models.
 
 ### Cons:
+
 - Battery life is not there, charge could take hours, because its solar powered, and runs out quickly
+
 - Data is processed so unsure if its giving accurate reading
+
 - when disconnected from wifi can’t update
+
 - Quality can’t withstand the weathering
+
 
 <div align="center">
 
