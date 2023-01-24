@@ -1,4 +1,3 @@
-<div align="center">
 
 ### Assignment 4
 ## Generation of Concepts
@@ -66,7 +65,7 @@ motor to do a swing and take a measure. The measurements given back to you would
 
 # Our Process
   
-  </div>
+  
   
  We had each put some contribution in each of the designs but each design can be credited (in order) to 1 Jedriq Ventura, 2 Samuel Stiffler, 3 Nathan Hoge. Dylan made the contribution of explaining our ideas, and getting them onto the github.
  
