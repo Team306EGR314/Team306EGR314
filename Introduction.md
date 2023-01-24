@@ -4,27 +4,26 @@
 
 
 
-<div align="center">
+
 
 ### Charter
   
-● Produce systems that can respond to the environment using serial sensing and
-actuation.
+  - Produce systems that can respond to the environment using serial sensing and
+    actuation.
 
-● Being able to produce a network of digital sensors and being able to apply that
-data.
+  - Being able to produce a network of digital sensors and being able to apply that
+    data.
 
-● Being able to make a complex system in a mobile/carry-on fashion
+  - Being able to make a complex system in a mobile/carry-on fashion
 
-● A system of subsystems that will actually integrate with one another, and allow
-for communication between the systems.
+  - A system of subsystems that will actually integrate with one another, and allow
+    for communication between the systems.
 
-● We will work on a system of productivity to ensure deadlines are met.
+  - We will work on a system of productivity to ensure deadlines are met.
 
-● We will have an interdependency system between team members for each
-system. This will entail a main and secondary person on each subsystem.
+  - We will have an interdependency system between team members for each
+    system. This will entail a main and secondary person on each subsystem.
 
-</div>
   
 ### Mission Statement
 
