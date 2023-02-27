@@ -24,6 +24,16 @@ Supports 1.8-V, 3.3-V, and 5-V logic inputs
 | A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality              |
 | Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C                               |
 
+
+
+
+|Component
+
+|
+
+|
+
+|
 IFX 9201 GAMMA1
 Price: 2.18
 Vendor: Texas Instruments
