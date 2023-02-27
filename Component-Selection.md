@@ -29,14 +29,14 @@ Supports 1.8-V, 3.3-V, and 5-V logic inputs
 
 |Component   |Pros                                                                                       |Cons
 |------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
-|IFX 9201 GAMMA1/Price: 2.18|Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation|Power dissipation and thermal limits must be observed|
+|IFX 9201 GAMMA1/ Price: 2.18|Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation|Power dissipation and thermal limits must be observed|
 |Vendor: Infineion Device|Drives two DC motors or single stepper motor|Limited amount of Motors are compatable with this|                             
 |            |Small package and footprint    |Limited to only SPI and PWM communication                                 |
 
 
 |Components |Pros |Cons |
 |---------------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
-|BD6211F-E2/Price: 2.30 |power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A |Specifies that it has an On/Off interface |
+|BD6211F-E2/ Price: 2.30 |power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A |Specifies that it has an On/Off interface |
 |Vendor: Rohm Semiconductor |highly efficient H-bridge driver ICs facilitate low-power consumption design |Limited communication channels provided |
 
 
@@ -47,18 +47,19 @@ Rationale: For the motor driver the optimal solution is the IFX 9201 GAMMA1. It 
 
 Motor
 Team Member: Jedriq Ventura
-Component:
-Pros:
-Cons:
-ROB-11696
 
-Price: 2.10
-Vendor: SparkFun Electronics
-Used within the most basic of devices
-Simplistic in design and setup
-Handle a Max of 12VDC even though descriptions states 3VDC
-Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier
-Locked-current set at 0.8A
+|Component  |Pros |Cons |
+|-- |-- |-- |
+|ROB-11696/ Price: 2.10|Used within the most basic of devices |Handle a Max of 12VDC even though descriptions states 3VDC |
+|Vendor: SparkFun Electronics|Simplistic in design and setup |Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier |
+|                            |                               |Locked-current set at 0.8A   |
+
+
+
+| | | |
+| | | |
+| | | |
+| | | |
 
 
 ASJGA12-N20
