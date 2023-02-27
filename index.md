@@ -545,6 +545,40 @@ It was better to have the ideas but holding to them was way harder. Because we h
 
 [**Assignment 4 (Presentation Slides and Link**)](Presentation.md)
 
+**Selected Design**
+
+Final Choice
+
+After deliberating between all group members, the final decision was made that design concept two would be the best option for 
+the team to proceed with. This design in short will be a mobile weather station that will have active humidity and temperature 
+readings which will move a door to an air vent with the intention of managing the environment within enclosed spaces. Ideal 
+environments need to remain within a general desired temperature and humidity range for a variety of reasons.
+
+Rationale
+
+Our rationale for our decision was evaluated with respect to multiple factors. Each design was evaluated with respect to 
+manufacturing, practical implementation, electronics, coding, and budget. Both design concepts two and three received high marks 
+in terms of manufacturability due to the inherently larger sizes of them to implement power sources, electronics, and the 
+mechanical aspects tied to our motor functions. Design concept one was not of a realistic size to implement our necessary 
+components within its confides. Design two won on practicality as we evaluated that while all designs can give a good glimpse of 
+the weather, design two could actually use its motor function and apply it to something more useful for an end user. As for 
+electronics, we mainly looked at practical placement within the concept. Design concept one was so small that all sensors would 
+be a struggle to place in any sort of ideal spot. Design concepts two and three were both higher scoring in this area due to the 
+simple fact of size. They have the realestate to place the pcbs wherever they need to be in order to implement ideal positioning 
+of the sensors. Evaluation of coding was mainly tied to the purpose of our motor in how we evaluated the concepts. Design two 
+had the best outcome from this as it provided the most straightforward coding from a motor function based on sensor outputs. 
+Budget for these was evaluated by what designs could implement the most standard components. Design one was very much hard to 
+analyze so we did not evaluate it. Between two and three, two received the highest evaluation due to a simpler to make box as 
+opposed to the enclosure of design three which would limit us to a lot of custom 3d printing with more exotic filaments to 
+obtain necessary durability.
+
+[**Assignment 5 (Block Diagram**)](Block Diagram.md)
+
+<img src="photosandvideos/Block Diagram-314.drawio (1).png">
+
+The block diagram’s construction began with the fundamental understanding that two digital sensors, a motor driver with motor, a 
+wifi module, buck converter, and microcontroller. Starting with the microcontroller, our team chose the PIC18F15Q41 
+
 
 
 [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
