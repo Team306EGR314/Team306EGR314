@@ -27,23 +27,18 @@ Supports 1.8-V, 3.3-V, and 5-V logic inputs
 
 
 
-|Component
+|Component   |Pros                                                                                       |Cons
+|------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
+|IFX 9201 GAMMA1/Price: 2.18|Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation|Power dissipation and thermal limits must be observed|
+|Vendor: Infineion Device|Drives two DC motors or single stepper motor|Limited amount of Motors are compatable with this|                             
+|            |Small package and footprint    |Limited to only SPI and PWM communication                                 |
 
-|
 
-|
+|Components |Pros |Cons |
+|--|--|--|
+| | | |
+| | | |
 
-|
-IFX 9201 GAMMA1
-Price: 2.18
-Vendor: Texas Instruments
-Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation
-SPI interface
-Small package and footprint
-ability to limit current can significantly reduce large currents during motor startup and stall conditions. 
-Power dissipation and thermal limits must be observed
-Limited to only SPI and PWM communication
-Limited amount of Motors are compatable with this device
 
 BD6211F-E2
 Price: 2.30
@@ -54,8 +49,11 @@ Specifies that it has an On/Off interface
 Limited communication channels provided
 
 
+
 Final Selection: IFX 9201 GAMMA1
 Rationale: For the motor driver the optimal solution is the IFX 9201 GAMMA1. It has acceptable range with its power, and numerous fail safes that allow for continued use under certain circumstances if more power is to be imputed or outputted. It also uses the correct digital interface used that is part of the project. As well as this is the same motor driver used within the class and has all the key features within this part that allow for the best comprehensive performance. This was the best choice overall. 
+
+
 
 Motor
 Team Member: Jedriq Ventura
