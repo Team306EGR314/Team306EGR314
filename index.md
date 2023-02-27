@@ -572,7 +572,7 @@ analyze so we did not evaluate it. Between two and three, two received the highe
 opposed to the enclosure of design three which would limit us to a lot of custom 3d printing with more exotic filaments to 
 obtain necessary durability.
 
-[**Assignment 5 (Block Diagram**)](Block Diagram.md)
+[**Assignment 5 (Block Diagram**)](Block-Diagram.md)
 
 <img src="photosandvideos/Block Diagram-314.drawio (1).png">
 
