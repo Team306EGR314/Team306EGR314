@@ -1,1 +1,267 @@
+Motor Driver
+Team Member: Jedriq Ventura
+Component:
+Pros:
+Cons:
+DRV8220DRLR
+
+Price: 0.93
+Vendor:Texas Instruments
+4.5-V to 18-V operating supply voltage range
+Multiple interfaces for flexibility and reduced GPIO
+Supports 1.8-V, 3.3-V, and 5-V logic inputs
+
+
+
+
+Features of the pins do not allow it to be easily soldered on
+Limited towards PWM interface
+A3909GLNTR-T
+
+Price: 1.50
+Vendor: Allegro Microsystems
+Drives two DC motors or single stepper motor
+• Overcurrent protection, Output to supply short, Output to GND short, Output load short
+• Thermal shutdown protection
+Exposed thermal Pad
+Priced excessively high for its quality
+Uses Logic interface and does not indicate the use of SPI or I2C
+IFX 9201 GAMMA1
+
+Price: 2.18
+Vendor: Texas Instruments
+Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation
+SPI interface
+Small package and footprint
+ability to limit current can significantly reduce large currents during motor startup and stall conditions. 
+Power dissipation and thermal limits must be observed
+Limited to only SPI and PWM communication
+Limited amount of Motors are compatable with this device
+BD6211F-E2
+
+Price: 2.30
+Vendor: Rohm Semiconductor
+ power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A
+ highly efficient H-bridge driver ICs facilitate low-power consumption design
+Specifies that it has an On/Off interface
+Limited communication channels provided
+
+
+Final Selection: IFX 9201 GAMMA1
+Rationale: For the motor driver the optimal solution is the IFX 9201 GAMMA1. It has acceptable range with its power, and numerous fail safes that allow for continued use under certain circumstances if more power is to be imputed or outputted. It also uses the correct digital interface used that is part of the project. As well as this is the same motor driver used within the class and has all the key features within this part that allow for the best comprehensive performance. This was the best choice overall. 
+
+Motor
+Team Member: Jedriq Ventura
+Component:
+Pros:
+Cons:
+ROB-11696
+
+Price: 2.10
+Vendor: SparkFun Electronics
+Used within the most basic of devices
+Simplistic in design and setup
+Handle a Max of 12VDC even though descriptions states 3VDC
+Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier
+Locked-current set at 0.8A
+
+
+ASJGA12-N20
+
+Price: $15.90
+Vendor: Aslong Motor
+12VDC max voltage
+3,000 RPM
+Large gearbox
+Open gear
+PC280LG-303
+
+Price: $10.08
+Vendor: Harfington
+Rated voltage is DC 6V
+ the gearbox part is 23mm in diameter
+output speed of 100 RPM.
+Information in regards to this motor is limited to only its performance
+Designation towards air pumps, is limited due to its size
+NF123G-302
+
+Price: $5.64
+Vendor: Johnson Motor
+DC Geared 
+High Voltage input of 9V
+Can run between 3V-9V
+
+
+High priced motor compared to the others that have more positive aspects
+Motor,Rated Voltage, DC 6V;Rated Current,  60MA
+
+
+Final Selection: PC280LG-303
+Rationale: The best component found for the motor was the PC280LG-303 from Johnson motor. This motor will allow for movement within our project to perform more efficiently. This is also a very effective motor in terms of its cost. Its size and its performance being just powered by 3VDC overall made this the best option.
+Temperature Sensor
+Team Member: Samuel Striffler
+Component:
+Pros:
+Cons:
+Texas Instruments TMP75B-Q1
+
+Price: $2.04
+Vendor: Mouser
+Designed for an industrial application
+Simplistic circuitry required for operation
+12 Bits of Resolution
+Lower cost
+Uses I2C interface
+Low current (10µA)
+Not as accurate of a sensor reading (+/- 1.0℃)
+Texas Instruments
+TMP107-Q1
+
+Price: $4.94
+Vendor: Mouser
+Very accurate temperature reading (+/- 0.4℃)
+Wide temperature reading range (-40 to +125℃)
+Designed for an HVAC application, which is closely applicable
+14 Bits of resolution
+Extremely low current (1µA)
+Utilizes UART interface
+Elevated cost over other sensors
+Texas Instruments
+TMP105YZCR
+
+Price: $2.39
+Vendor: Mouser
+Utilizes I2C Interface
+Adjustable resolution from 9 Bits to 12 Bits
+Lower Cost sensor
+Wide input voltage range (-0.5V to 7.0V)
+Very loose accuracy of sensor (+/- 3.0℃)
+
+
+Analog Devices
+ADT7422CCPZ-RL7
+
+Price: $8.07
+Vendor: Mouser
+Extremely accurate temperature reading (+/- 0.1℃)
+Fast power up (6µs)
+Utilizes I2C Interface
+Highest Resolution (16 Bits)
+High Cost ($8.07 compared to next highest at $4.94)
+High current usage (265µA)
+
+
+Final Selection: Texas Instruments TMP75B-Q1
+Rationale: It provides the best middle ground on all important aspects that are used to evaluate the sensor. It has acceptable temperature reading error range, a relatively low cost, decent resolution, relatively easy circuit implementation, lower power need, and utilizes the correct interface for the project. While better sensors can be purchased, this offers less areas for failures in the circuitry, and provides more than adequate output to portray relevant information for the end user and to trigger the venting function we want to implement in our weather station design. 
+Humidity Sensor
+Team Member: Nathan Hoge
+Component:
+Pros:
+Cons:
+ENS210-LQFM Humidity and Temperature Sensor
+
+Price:$3.18/each
+Vendor: Digikey
+One of the cheapest available options
+I^2C
+Low response time (3s)
+Within 3.3V supply
+Low range for operating temperature
+WDFN package type (difficult to solder by hand)
+HPP845E131R5 Humidity and Temperature Sensor
+
+Price:$6.16/each
+Vendor:Digikey
+I^2C
+Within 3.3V supply
+Large range for operating temperature
+More expensive than other options on list
+VDFN package type (difficult to solder by hand)
+HIH6030-021-001 Humidity and Temperature Sensor
+
+Price:$13.98/each
+Vendor:Digikey
+I^2C
+SOIC package type (easier to solder by hand)
+Most expensive option for measuring humidity.
+Highest deviation in humidity reading accuracy
+Outside of 3.3V supply
+Low range for operating temperature
+SHTC3-TR-10KS Humidity and Temperature Sensor
+
+Price: $3.04/each
+Vendor: Digikey
+One of the cheapest available option
+Lowest deviation in humidity reading accuracy
+I^2C
+Within 3.3V supply
+Short manufacturing lead time
+Large range for operating temperature
+High response time (8s)
+WDFN package type (difficult to solder by hand)
+
+
+Final Selection: SHTC3-TR-10KS Humidity and Temperature Sensor
+Rationale: The rationale behind choosing the SHTC3-TR-10KS Humidity and Temperature Sensor was due to the sensor adequately reaching all the hard requirements while having very few disadvantages. The sensor is able to properly use a 16b output with its humidity readings being fairly accurate. In addition, it is able to use I^2C to speak to the MCU and stay within the 3.3V supply of all other subsystems used. Its only real downside is its high response time at 8 seconds, but that can be overlooked as it’ll just take a lil bit more to properly update.
+Switching Regulator
+Team Member: Dylan Turner
+Component:
+Pros:
+Cons:
+MAX17626ATA+T
+
+
+
+Price: $1.45
+Vendor: Mouser
+Simple looking design, and will be easy to use.
+2 Amp output 
+Wide operating a temperature that mirrors sensors (-40 to 125℃)
+Low power dissipation (937.9mW)
+No side panels makes continuity harder to check
+8 pins for that package type makes it harder to tell what's wrong with it.
+TPS564247DRLR
+
+
+
+
+Price: $1.29 
+Vendor: Mouser
+Higher rating step-down converter
+Can go up 16V 
+High amp output 4 amps
+Budget Friendly at $1.29
+Side clamps make surface mount easier
+Super small casing 
+Takes a lot of capacitors, according to the datasheet.
+
+
+
+
+TPS63901YCJR
+
+
+Price: $2.50
+Vendor: Mouser
+lowest amperage of the 400mA 
+The input is basically the same as the output, so if we choose 3.3V it will stay the same
+Texas Instruments has a very nice data sheet for it.
+Low Amperage compared to other models (400ma)
+Higher cost at $2.50
+Sauder balls are just not preferred 
+TPS63802DLAR
+
+
+Price: $2.50
+Vendor: Mouser
+2 amp output
+Is meant for lower voltages 
+Doesn’t take much space and seems like the footprint would be easy to make.
+
+
+Higher cost at $2.50
+
+Final Selection: TPS564247DRLR
+
+Rationale: TPS564247DRLR because it has a high output amperage that can satisfy any current needs our motor may have. The footprint is conducive to soldering onto our group pcb, and all of these come at a very affordable price for our budget.
 
