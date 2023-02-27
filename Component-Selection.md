@@ -13,16 +13,16 @@ Supports 1.8-V, 3.3-V, and 5-V logic inputs
 
 | Component     | Pros                                                                                  | Cons                                                       |
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
-| DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                                          | Features of the pins do not allow it to be easily soldered on              |
-|Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                               |
+| DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                           | Features of the pins do not allow it to be easily soldered on|
+|Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                   |
 
 
 
 
 | Component     | Pros                                                                                  | Cons                                                       |
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
-| A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality              |
-| Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C                               |
+| A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality         |
+| Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C               |
 
 
 
@@ -35,19 +35,9 @@ Supports 1.8-V, 3.3-V, and 5-V logic inputs
 
 
 |Components |Pros |Cons |
-|--|--|--|
-| | | |
-| | | |
-
-
-BD6211F-E2
-Price: 2.30
-Vendor: Rohm Semiconductor
- power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A
- highly efficient H-bridge driver ICs facilitate low-power consumption design
-Specifies that it has an On/Off interface
-Limited communication channels provided
-
+|---------------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
+|BD6211F-E2/Price: 2.30 |power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A |Specifies that it has an On/Off interface |
+|Vendor: Rohm Semiconductor |highly efficient H-bridge driver ICs facilitate low-power consumption design |Limited communication channels provided |
 
 
 Final Selection: IFX 9201 GAMMA1
