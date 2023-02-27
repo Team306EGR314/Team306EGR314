@@ -1,6 +1,6 @@
 <img src="photosandvideos/Software Proposal.drawio.png">
 
-Fig. 17  Software Proposal
+*Fig. 17  Software Proposal*
 
 When the device turns on according to our proposal, it will initialize its systems, and ready its peripherals. After that it will 
 first try to address the separate devices attached. If the device can’t connect to the separate devices it will keep trying to call 
