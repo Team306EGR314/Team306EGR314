@@ -11,11 +11,15 @@ Vendor:Texas Instruments
 Multiple interfaces for flexibility and reduced GPIO
 Supports 1.8-V, 3.3-V, and 5-V logic inputs
 
-
+| Component     | Pros                                                                                  | Cons                                                       |
+| ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
+| DRV8220DRLR   | 4.5-V to 18-V operating supply voltage range                                          | pins do not allow it to be easily soldered on              |
+| Price: 0.93   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                               |
 
 
 Features of the pins do not allow it to be easily soldered on
 Limited towards PWM interface
+
 A3909GLNTR-T
 
 Price: 1.50
