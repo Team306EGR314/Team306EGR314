@@ -13,25 +13,18 @@ Supports 1.8-V, 3.3-V, and 5-V logic inputs
 
 | Component     | Pros                                                                                  | Cons                                                       |
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
-| DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                                          | pins do not allow it to be easily soldered on              |
-|   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                               |
+| DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                                          | Features of the pins do not allow it to be easily soldered on              |
+|Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                               |
 
 
-Features of the pins do not allow it to be easily soldered on
-Limited towards PWM interface
 
-A3909GLNTR-T
 
-Price: 1.50
-Vendor: Allegro Microsystems
-Drives two DC motors or single stepper motor
-• Overcurrent protection, Output to supply short, Output to GND short, Output load short
-• Thermal shutdown protection
-Exposed thermal Pad
-Priced excessively high for its quality
-Uses Logic interface and does not indicate the use of SPI or I2C
+| Component     | Pros                                                                                  | Cons                                                       |
+| ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
+| A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality              |
+| Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C                               |
+
 IFX 9201 GAMMA1
-
 Price: 2.18
 Vendor: Texas Instruments
 Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation
@@ -41,8 +34,8 @@ ability to limit current can significantly reduce large currents during motor st
 Power dissipation and thermal limits must be observed
 Limited to only SPI and PWM communication
 Limited amount of Motors are compatable with this device
-BD6211F-E2
 
+BD6211F-E2
 Price: 2.30
 Vendor: Rohm Semiconductor
  power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A
@@ -71,15 +64,14 @@ Locked-current set at 0.8A
 
 
 ASJGA12-N20
-
 Price: $15.90
 Vendor: Aslong Motor
 12VDC max voltage
 3,000 RPM
 Large gearbox
 Open gear
-PC280LG-303
 
+PC280LG-303
 Price: $10.08
 Vendor: Harfington
 Rated voltage is DC 6V
