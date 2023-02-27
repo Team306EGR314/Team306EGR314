@@ -1,4 +1,4 @@
-*Hardware Proposal*
+**Hardware Proposal**
 
 <img src="photosandvideos/Team 306 Schematic.png">
 
