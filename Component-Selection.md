@@ -52,16 +52,16 @@ Team Member: Jedriq Ventura
 
 |Component  |Pros |Cons |
 |-- |-- |-- |
-|ROB-11696/ Price: 2.10|Used within the most basic of devices |Handle a Max of 12VDC even though descriptions states 3VDC |
+|ROB-11696/ Price: 2.10|Used within the most basic of devices |Handle a Max of 12VDC even though descriptions states 3VDC                                 |
 |Vendor: SparkFun Electronics|Simplistic in design and setup |Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier |
-|                            |                               |Locked-current set at 0.8A   |
+|                            |                               |Locked-current set at 0.8A                                                                  |
 
 
 
 |Component |Pros|Cons|
 |-- |-- |-- |
-|ASJGA12-N20/ Price: $15.90 |12VDC max voltage |Large gearbox |
-|Vendor: Aslong Motor |3,000 RPM |Open gear |
+|ASJGA12-N20/ Price: $15.90 |12VDC max voltage |Large gearbox                                                                                                 |
+|Vendor: Aslong Motor       |3,000 RPM         |Open gear                                                                                                     |
 
 
 
