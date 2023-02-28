@@ -5,11 +5,7 @@ Pros:
 Cons:
 DRV8220DRLR
 
-Price: 0.93
-Vendor:Texas Instruments
-4.5-V to 18-V operating supply voltage range
-Multiple interfaces for flexibility and reduced GPIO
-Supports 1.8-V, 3.3-V, and 5-V logic inputs
+
 
 | Component     | Pros                                                                                  | Cons                                                       |
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
