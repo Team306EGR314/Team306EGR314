@@ -58,11 +58,11 @@ Team Member: Jedriq Ventura
 
 
 
-|Component |Pros             |Cons    |
-|-- |-- |-- |
-|ASJGA12-N20/ Price: $15.90 |12VDC max voltage |Large gearbox                                                                                                 |
-|Vendor: Aslong Motor       |3,000 RPM         |Open gear                                                                                                     |
 
+| Component|Pros |Cons |
+|--|--|--| 
+|ASJGA12-N20/ Price: $15.90 |12VDC max voltage |Large gearbox  |
+|Vendor: Aslong Motor |3,000 RPM |Open gear |
 
 
 
