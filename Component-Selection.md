@@ -60,21 +60,21 @@ Team Member: Jedriq Ventura
 |--|--|--| 
 |ASJGA12-N20/ Price: $15.90 |12VDC max voltage |Large gearbox  |
 |Vendor: Aslong Motor |3,000 RPM |Open gear |
-| <img src = "photosandvideos/MFG_ASJGA12-N20-dc-gear-motor.webp"> |--|--|
+| <img src = "photosandvideos/MFG_ASJGA12-N20-dc-gear-motor.webp"> |Large gearbox|Highest cost compared to other 3 options|
 
 
 |Component |Pros |Cons |
 |-- |-- |-- |
 |PC280LG-303/ Price: $10.08 |Rated voltage is DC 6V |Information in regards to this motor is limited to only its performance |
 |Vendor: Harfington |the gearbox part is 23mm in diameter and output speed of 100 RPM |Designation towards air pumps, is limited due to its size |
-|<img src = "photosandvideos/MFG_PC280LG-303.webp">|||
+|<img src = "photosandvideos/MFG_PC280LG-303.webp">|output speed of 100 RPM.|Compact size does not gurantee efficient performance|
 
 
 |Components |Pros |Cons |
 |-- |-- |-- |
 |NF123G-302/ Price: $5.64|Vendor: Johnson Motor, High Voltage input of 9V  |High priced motor compared to the others that have more positive aspects |
 |Vendor: Johnson Motor |Can run between 3V-9V |Motor,Rated Voltage, DC 6V;Rated Current,  60MA |
-|<img src = "photosandvideos/MFG_NF123G-302.webp">|||
+|<img src = "photosandvideos/MFG_NF123G-302.webp">|Can run between 3V-9V|Above level voltage |
 
 
 
@@ -90,8 +90,8 @@ Cons:
 |Component |Pros |Cons |
 |--|--|--|
 |Texas Instruments TMP75B-Q1/ Price: $2.04 |Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) |
-|Vendor: Mouser |Simplistic circuitry required for operation | |
-| <img src = "photosandvideos/TMP75B.webp">             |12 Bits of Resolution | |
+|Vendor: Mouser |Simplistic circuitry required for operation |Certain exccesive features may not be utilized |
+| <img src = "photosandvideos/TMP75B.webp">             |12 Bits of Resolution |Vendor has unpredictable shipment time |
 |               |Lower cost | |
 |               |Uses I2C interface | |
 | |Low current (10µA)| |
@@ -139,7 +139,7 @@ Team Member: Nathan Hoge
 |--|--|--|
 |ENS210-LQFM Humidity and Temperature Sensor/ Price:$3.18  |One of the cheapest available options |Low range for operating temperature |
 |Vendor: Digikey |I^2C |WDFN package type (difficult to solder by hand) |
-|<img src = "photosandvideos/ENS210-LQFMx.webp">|Low response time (3s)| |
+|<img src = "photosandvideos/ENS210-LQFMx.webp">|Low response time (3s)|Tiny Footprint |
 | |Within 3.3V supply | |
 
 
@@ -149,10 +149,17 @@ Team Member: Nathan Hoge
 |HPP845E131R5 Humidity and Temperature Sensor/ Price:$6.16/each |I^2C |More expensive than other options on list |
 |Vendor:Digikey |SOIC package type (easier to solder by hand) |VDFN package type (difficult to solder by hand) |
 |<img src ="photosandvideos/HIH6030-021-001.webp"> |Most expensive option for measuring humidity | |
-| |Highest deviation in humidity reading accuracy | |
+| |Highest deviation in humidity reading accuracy |No example code in the datasheet |
 | |Outside of 3.3V supply | |
 
 
+
+|Components|Pros|Cons|
+|--|--|--|
+|HIH6030-021-001 Humidity and Temperature Sensor/ Price:$13.98/each|I^2C |Most expensive option for measuring humidity. |
+|Vendor:Digikey |SOIC package type (easier to solder by hand) |Highest deviation in humidity reading accuracy |
+| |Given calculations to solve for humidity |Outside of 3.3V supply |
+| | | |
 
 
 
@@ -160,7 +167,7 @@ Team Member: Nathan Hoge
 |--|--|--|
 |SHTC3-TR-10KS Humidity and Temperature Sensor / Price: $3.04/each |One of the cheapest available option One of the cheapest available option |High response time (8s)|
 |Vendor: Digikey |Lowest deviation in humidity reading accuracy |WDFN package type (difficult to solder by hand) |
-| <img src="photosandvideos/SHTC3-TR-10KS.webp"> |I^2C | |
+| <img src="photosandvideos/SHTC3-TR-10KS.webp"> |I^2C |Tiny footprint |
 | |Within 3.3V supply | |
 | |Short manufacturing lead time | |
 | |Large range for operating temperature | |
@@ -182,7 +189,7 @@ Team Member: Dylan Turner
 |MAX17626ATA+T/ Price: $1.45  |Simple looking design, and will be easy to use. |No side panels makes continuity harder to check |
 |Vendor: Mouser |2 Amp output  |8 pins for that package type makes it harder to tell what's wrong with it. |
 |<img src="photosandvideos/700-MAX17626ATA_plus_T_t.webp"> |Wide operating a temperature that mirrors sensors (-40 to 125℃) | |
-| |Low power dissipation (937.9mW) | |
+| |Low power dissipation (937.9mW) |Not an ideal package. |
 | | | |
 
 
@@ -192,7 +199,7 @@ Team Member: Dylan Turner
 |--|--|--|
 |TPS564247DRLR /Price: $1.29   |Higher rating step-down converter |Super small casing  |
 |Vendor: Mouser |Can go up 16V  |Takes a lot of capacitors, according to the datasheet. |
-|<img src="photosandvideos/TPS564247DRLR.webp"> |High amp output 4 amps | |
+|<img src="photosandvideos/TPS564247DRLR.webp"> |High amp output 4 amps |With more parts, it's important to consider placement, if you have more it might be harder to get them closer. |
 | |Budget Friendly at $1.29 | |
 | |Side clamps make surface mount easier | |
 
@@ -214,8 +221,8 @@ Team Member: Dylan Turner
 |Components |Pros |Cons|
 |--|--|--|
 |TPS63802DLAR/ Price: $2.50 |2 amp output |Higher cost at $2.50 |
-|Vendor: Mouser |Is meant for lower voltages | |
-|<img src ="photosandvideos/TPS63802.webp"> |Doesn’t take much space and seems like the footprint would be easy to make.  | |
+|Vendor: Mouser |Is meant for lower voltages |Low Amperage compared to other models (400ma) |
+|<img src ="photosandvideos/TPS63802.webp"> |Doesn’t take much space and seems like the footprint would be easy to make.  |Sauder balls are just not preferred|
 
 
 
