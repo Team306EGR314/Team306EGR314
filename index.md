@@ -605,7 +605,7 @@ open the hatch) or B (Keep it closed). The device will then keep refreshing till
 
 [**Assignment 10 (Hardware Proposal**)](Hardware-Proposal.md)
 
-<img src="photosandvideos/Team 306 Schematic.png">
+<img src="photosandvideos/Team Schematic.pdf">
 
 Fig. 16  Hardware Proposal
 
