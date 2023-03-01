@@ -12,7 +12,7 @@ DRV8220DRLR
 | DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                           | Features of the pins do not allow it to be easily soldered on|
 |Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                   |
 | <img src="photosandvideos/MFG_DRV8220DRLR.webp"> |Supports 1.8-V, 3.3-V, and 5-V logic inputs|No Uart|                                                             |
-|                                                  |Supports 1.8-V, 3.3-V, and 5-V logic inputs        |No Uart                                                   |
+
 
 
 | Component     | Pros                                                                                  | Cons                                                       |
