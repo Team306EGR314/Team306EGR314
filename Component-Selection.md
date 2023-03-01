@@ -191,7 +191,7 @@ Team Member: Dylan Turner
 |--|--|--|
 |TPS564247DRLR /Price: $1.29   |Higher rating step-down converter |Super small casing  |
 |Vendor: Mouser |Can go up 16V  |Takes a lot of capacitors, according to the datasheet. |
-| |High amp output 4 amps | |
+|<img src="photosandvideos/TPS564247DRLR.webp"> |High amp output 4 amps | |
 | |Budget Friendly at $1.29 | |
 | |Side clamps make surface mount easier | |
 
