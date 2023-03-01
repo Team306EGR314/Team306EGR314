@@ -34,7 +34,7 @@ DRV8220DRLR
 |---------------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
 |BD6211F-E2/ Price: 2.30 |power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A |Specifies that it has an On/Off interface |
 |Vendor: Rohm Semiconductor |highly efficient H-bridge driver ICs facilitate low-power consumption design |Limited communication channels provided |
-|<img src = "photosandvideos/BD6211F-E2.webp" >|-----------------------------------------------|------------------------------------------------------------------------------|
+|<img src = "photosandvideos/BD6211F-E2.webp" >| Small 8-pin MSOP and 8-pin SOIC packages|No SPI compatibility|
 
 Final Selection: IFX 9201 GAMMA1
 Rationale: For the motor driver the optimal solution is the IFX 9201 GAMMA1. It has acceptable range with its power, and numerous fail safes that allow for continued use under certain circumstances if more power is to be imputed or outputted. It also uses the correct digital interface used that is part of the project. As well as this is the same motor driver used within the class and has all the key features within this part that allow for the best comprehensive performance. This was the best choice overall. 
@@ -50,7 +50,7 @@ Team Member: Jedriq Ventura
 |-- |---------------------------------------------------------|---------------------------------------------------------------- |
 |ROB-11696/ Price: 2.10|Used within the most basic of devices |Handle a Max of 12VDC even though descriptions states 3VDC                                 |
 |Vendor: SparkFun Electronics|Simplistic in design and setup |Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier |
-| <img src="photosandvideos/MFG_ROB-11696.webp">               |                               |Locked-current set at 0.8A                                |
+| <img src="photosandvideos/MFG_ROB-11696.webp">|Handle a Max of 12VDC even though descriptions states 3VDC|Locked-current set at 0.8A                    |
 |
 
 
