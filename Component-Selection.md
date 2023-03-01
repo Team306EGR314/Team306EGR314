@@ -50,7 +50,7 @@ Team Member: Jedriq Ventura
 |-- |---------------------------------------------------------|---------------------------------------------------------------- |
 |ROB-11696/ Price: 2.10|Used within the most basic of devices |Handle a Max of 12VDC even though descriptions states 3VDC                                 |
 |Vendor: SparkFun Electronics|Simplistic in design and setup |Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier |
-|                            |                               |Locked-current set at 0.8A                                                                  |
+| <img src="photosandvideos/MFG_ROB-11696.webp">               |                               |Locked-current set at 0.8A                                                                  |
 
 
 
@@ -66,14 +66,14 @@ Team Member: Jedriq Ventura
 |-- |-- |-- |
 |PC280LG-303/ Price: $10.08 |Rated voltage is DC 6V |Information in regards to this motor is limited to only its performance |
 |Vendor: Harfington |the gearbox part is 23mm in diameter and output speed of 100 RPM |Designation towards air pumps, is limited due to its size |
-
+|<img src = "photosandvideos/MFG_PC280LG-303.webp">|||
 
 
 |Components |Pros |Cons |
 |-- |-- |-- |
 |NF123G-302/ Price: $5.64|Vendor: Johnson Motor, High Voltage input of 9V  |High priced motor compared to the others that have more positive aspects |
 |Vendor: Johnson Motor |Can run between 3V-9V |Motor,Rated Voltage, DC 6V;Rated Current,  60MA |
-
+|<img src = "photosandvideos/MFG_NF123G-302.webp">|||
 
 
 
