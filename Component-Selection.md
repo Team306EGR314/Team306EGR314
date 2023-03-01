@@ -34,7 +34,7 @@ DRV8220DRLR
 |---------------------------------|-----------------------------------------------|------------------------------------------------------------------------------|
 |BD6211F-E2/ Price: 2.30 |power supply voltage range of 3.0V to 5.5V, with output currents of up to 2A |Specifies that it has an On/Off interface |
 |Vendor: Rohm Semiconductor |highly efficient H-bridge driver ICs facilitate low-power consumption design |Limited communication channels provided |
-
+|<img src = "photosandvideos/BD6211F-E2.webp" >|-----------------------------------------------|------------------------------------------------------------------------------|
 
 Final Selection: IFX 9201 GAMMA1
 Rationale: For the motor driver the optimal solution is the IFX 9201 GAMMA1. It has acceptable range with its power, and numerous fail safes that allow for continued use under certain circumstances if more power is to be imputed or outputted. It also uses the correct digital interface used that is part of the project. As well as this is the same motor driver used within the class and has all the key features within this part that allow for the best comprehensive performance. This was the best choice overall. 
@@ -138,7 +138,7 @@ Team Member: Nathan Hoge
 |--|--|--|
 |ENS210-LQFM Humidity and Temperature Sensor/ Price:$3.18  |One of the cheapest available options |Low range for operating temperature |
 |Vendor: Digikey |I^2C |WDFN package type (difficult to solder by hand) |
-| |Low response time (3s)| |
+|<img src = "photosandvideos/ENS210-LQFMx.webp">|Low response time (3s)| |
 | |Within 3.3V supply | |
 
 
@@ -147,7 +147,7 @@ Team Member: Nathan Hoge
 |--|--|--|
 |HPP845E131R5 Humidity and Temperature Sensor/ Price:$6.16/each |I^2C |More expensive than other options on list |
 |Vendor:Digikey |SOIC package type (easier to solder by hand) |VDFN package type (difficult to solder by hand) |
-| |Most expensive option for measuring humidity | |
+|<img src ="photosandvideos/HIH6030-021-001.webp"> |Most expensive option for measuring humidity | |
 | |Highest deviation in humidity reading accuracy | |
 | |Outside of 3.3V supply | |
 
