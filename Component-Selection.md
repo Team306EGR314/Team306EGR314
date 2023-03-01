@@ -119,7 +119,7 @@ Cons:
 |--|--|--|
 |Analog Devices ADT7422CCPZ-RL7/ Price: $8.07 |Highest Resolution (16 Bits) |High Cost ($8.07 compared to next highest at $4.94) |
 |Vendor: Mouser |Extremely accurate temperature reading (+/- 0.1℃) |High current usage (265µA) |
-| |Fast power up (6µs) | |
+| <img src = "photosandvideos/A3909GLNTR-T.jpg"> |Fast power up (6µs) | |
 | |Utilizes I2C Interface | |
 | | | |
 
