@@ -17,4 +17,5 @@ Humidity Sensor (Left middle)
 
 Motor Driver (Bottom Portion)
 	Receiving power from the switching regulator, this will be programmed using SPI, The motor will receive information from the PIC18F15Q41 from the sensors, this will tell the motor when and how to move. The motor ideally will open the hatch on the module when the humidity and temperature get too high. The idea is that when cold air rushes in, it will lower both criteras and then the motor will close the hatch.
+
 <img src="photosandvideos/Team 306 Power Budget.png">
