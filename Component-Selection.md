@@ -158,7 +158,7 @@ Team Member: Nathan Hoge
 |--|--|--|
 |HIH6030-021-001 Humidity and Temperature Sensor/ Price:$13.98/each|I^2C |Most expensive option for measuring humidity. |
 |Vendor:Digikey |SOIC package type (easier to solder by hand) |Highest deviation in humidity reading accuracy |
-| |Given calculations to solve for humidity |Outside of 3.3V supply |
+|<img src="photosandvideos/HPP845E131R5.webp"> |Given calculations to solve for humidity |Outside of 3.3V supply |
 | | | |
 
 
