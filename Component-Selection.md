@@ -19,7 +19,7 @@ DRV8220DRLR
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 | A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality         |
 | Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C               |
-| <img src="photosandvideos/A3909GLNTR-T.jpg"> | Thermal shutdown protection |Thermal shutdown protection   |
+| <img src="photosandvideos/A3909GLNTR-T.jpg"> | Thermal shutdown protection |4V range to 8V   |
 ||Exposed thermal Pad||
 
 
