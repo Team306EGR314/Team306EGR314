@@ -188,8 +188,8 @@ Team Member: Dylan Turner
 |--|--|--|
 |MAX17626ATA+T/ Price: $1.45  |Simple looking design, and will be easy to use. |No side panels makes continuity harder to check |
 |Vendor: Mouser |2 Amp output  |8 pins for that package type makes it harder to tell what's wrong with it. |
-|<img src="photosandvideos/700-MAX17626ATA_plus_T_t.webp"> |Wide operating a temperature that mirrors sensors (-40 to 125℃) | |
-| |Low power dissipation (937.9mW) |Not an ideal package. |
+|<img src="photosandvideos/700-MAX17626ATA_plus_T_t.webp"> |Wide operating a temperature that mirrors sensors (-40 to 125℃) |Not an ideal package.  |
+| |Low power dissipation (937.9mW) ||
 | | | |
 
 
