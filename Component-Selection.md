@@ -90,7 +90,7 @@ Cons:
 |--|--|--|
 |Texas Instruments TMP75B-Q1/ Price: $2.04 |Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) |
 |Vendor: Mouser |Simplistic circuitry required for operation | |
-|               |12 Bits of Resolution | |
+| <img src = "photosandvideos/TMP75B.webp">             |12 Bits of Resolution | |
 |               |Lower cost | |
 |               |Uses I2C interface | |
 | |Low current (10µA)| |
@@ -100,7 +100,7 @@ Cons:
 |--|--|--|
 |Texas Instruments TMP107-Q1 / Price: $4.94  |Very accurate temperature reading (+/- 0.4℃) |Utilizes UART interface |
 |Vendor: Mouser |Wide temperature reading range (-40 to +125℃) |Elevated cost over other sensors |
-| |Designed for an HVAC application, which is closely applicable | |
+|<img src="photosandvideos/TMP107B.webp"> |Designed for an HVAC application, which is closely applicable | |
 | |14 Bits of resolution | |
 | |Extremely low current (1µA) | |
 
@@ -203,7 +203,7 @@ Team Member: Dylan Turner
 |--|--|--|
 |TPS63901YCJR/ Price: $2.50 |lowest amperage of the 400mA   |Low Amperage compared to other models (400ma) |
 |Vendor: Mouser |The input is basically the same as the output, so if we choose 3.3V it will stay the same |Higher cost at $2.50 |
-| |Texas Instruments has a very nice data sheet for it. |Sauder balls are just not preferred |
+|<img src = "photosandvideos/TPS63901.webp"> |Texas Instruments has a very nice data sheet for it. |Sauder balls are just not preferred |
 
 
 
@@ -214,7 +214,7 @@ Team Member: Dylan Turner
 |--|--|--|
 |TPS63802DLAR/ Price: $2.50 |2 amp output |Higher cost at $2.50 |
 |Vendor: Mouser |Is meant for lower voltages | |
-| |Doesn’t take much space and seems like the footprint would be easy to make.  | |
+|<img src ="photosandvideos/TPS63802.webp"> |Doesn’t take much space and seems like the footprint would be easy to make.  | |
 
 
 
