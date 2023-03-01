@@ -11,7 +11,7 @@ DRV8220DRLR
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 | DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                           | Features of the pins do not allow it to be easily soldered on|
 |Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                   |
-| <img src="photosandvideos/MFG_DRV8220DRLR.webp"> | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
+| <img src="photosandvideos/MFG_DRV8220DRLR.webp"> |Supports 1.8-V, 3.3-V, and 5-V logic inputs|No Uart|
 
 
 
@@ -19,8 +19,8 @@ DRV8220DRLR
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 | A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality         |
 | Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C               |
-| <img src="photosandvideos/A3909GLNTR-T.jpg"> | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
-
+| <img src="photosandvideos/A3909GLNTR-T.jpg"> | Thermal shutdown protection |Thermal shutdown protection   |
+||Exposed thermal Pad||
 
 
 |Component   |Pros                                                                                       |Cons
