@@ -110,7 +110,7 @@ Cons:
 |--|--|--|
 |Texas Instruments TMP105YZCR/ Price: $2.39  |Utilizes I2C Interface |Very loose accuracy of sensor (+/- 3.0℃) |
 |Vendor: Mouser |Adjustable resolution from 9 Bits to 12 Bits | |
-| |Lower Cost sensor | |
+|<img src="photosandvideos/TMP105.webp"> |Lower Cost sensor | |
 | |Wide input voltage range (-0.5V to 7.0V) | |
 
 
@@ -119,7 +119,7 @@ Cons:
 |--|--|--|
 |Analog Devices ADT7422CCPZ-RL7/ Price: $8.07 |Highest Resolution (16 Bits) |High Cost ($8.07 compared to next highest at $4.94) |
 |Vendor: Mouser |Extremely accurate temperature reading (+/- 0.1℃) |High current usage (265µA) |
-| <img src = "photosandvideos/A3909GLNTR-T.jpg"> |Fast power up (6µs) | |
+| <img src = "photosandvideos/ADT7422CCPZ.webp"> |Fast power up (6µs) | |
 | |Utilizes I2C Interface | |
 | | | |
 
@@ -159,7 +159,7 @@ Team Member: Nathan Hoge
 |--|--|--|
 |SHTC3-TR-10KS Humidity and Temperature Sensor / Price: $3.04/each |One of the cheapest available option One of the cheapest available option |High response time (8s)|
 |Vendor: Digikey |Lowest deviation in humidity reading accuracy |WDFN package type (difficult to solder by hand) |
-| |I^2C | |
+| <img src="photosandvideos/SHTC3-TR-10KS.webp"> |I^2C | |
 | |Within 3.3V supply | |
 | |Short manufacturing lead time | |
 | |Large range for operating temperature | |
