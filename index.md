@@ -826,11 +826,16 @@ Final Selection: TPS564247DRLR
 
 Rationale: TPS564247DRLR because it has a high output amperage that can satisfy any current needs our motor may have. The footprint is conducive to soldering onto our group pcb, and all of these come at a very affordable price for our budget.
 
+<img src = "photosandvideos/QR power budget.png">
+
+
 [**Assignment 9 (Software Proposal**)](Software-Proposal.md)
 
 <img src="photosandvideos/Software Proposal.drawio.png">
 
 *Fig. 17  Software Proposal*
+
+<img src="photosandvideos/QR Software.png">
 
 When the device turns on according to our proposal, it will initialize its systems, and ready its peripherals. After that it will 
 first try to address the separate devices attached. If the device can’t connect to the separate devices it will keep trying to call 
@@ -841,8 +846,7 @@ open the hatch) or B (Keep it closed). The device will then keep refreshing till
 [**Assignment 10 (Hardware Proposal**)](Hardware-Proposal.md)
 
 <img src="photosandvideos/Team Schematic 306.png">
-<img src="photosandvideos/Team Schematic.pdf">
-
+<img src="photosandvideos/Team SCQR.png">
 
 Fig. 16  Hardware Proposal
 
