@@ -27,7 +27,7 @@ DRV8220DRLR
 |------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------|
 |IFX 9201 GAMMA1/ Price: 2.18|Supports 1.8-V, 3.3-V, and 5-V logic inputs • Integrated current regulation|Power dissipation and thermal limits must be observed|
 |Vendor: Infineion Device|Drives two DC motors or single stepper motor|Limited amount of Motors are compatable with this|                             
-|            |Small package and footprint    |Limited to only SPI and PWM communication                                 |
+| <img src = "photosandvideos/IFX9201SGAUMA1.webp">            |Small package and footprint    |Limited to only SPI and PWM communication                                 |
 
 
 |Components |Pros |Cons |
@@ -59,7 +59,7 @@ Team Member: Jedriq Ventura
 |--|--|--| 
 |ASJGA12-N20/ Price: $15.90 |12VDC max voltage |Large gearbox  |
 |Vendor: Aslong Motor |3,000 RPM |Open gear |
-
+| <img src = "photosandvideos/MFG_ASJGA12-N20-dc-gear-motor.webp"> |--|--|
 
 
 |Component |Pros |Cons |
