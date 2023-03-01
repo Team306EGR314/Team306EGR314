@@ -11,8 +11,8 @@ DRV8220DRLR
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 | DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                           | Features of the pins do not allow it to be easily soldered on|
 |Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                   |
-| <img src="photosandvideos/MFG_DRV8220DRLR.webp"> |Supports 1.8-V, 3.3-V, and 5-V logic inputs|No Uart|
-
+| <img src="photosandvideos/MFG_DRV8220DRLR.webp"> |Supports 1.8-V, 3.3-V, and 5-V logic inputs|No Uart|                                                             |
+|                                                  |Supports 1.8-V, 3.3-V, and 5-V logic inputs        |No Uart                                                   |
 
 
 | Component     | Pros                                                                                  | Cons                                                       |
@@ -50,7 +50,8 @@ Team Member: Jedriq Ventura
 |-- |---------------------------------------------------------|---------------------------------------------------------------- |
 |ROB-11696/ Price: 2.10|Used within the most basic of devices |Handle a Max of 12VDC even though descriptions states 3VDC                                 |
 |Vendor: SparkFun Electronics|Simplistic in design and setup |Voltage cannot exceed more than 3VDC, but has been noted to take in 12VDC from the supplier |
-| <img src="photosandvideos/MFG_ROB-11696.webp">               |                               |Locked-current set at 0.8A                                                                  |
+| <img src="photosandvideos/MFG_ROB-11696.webp">               |                               |Locked-current set at 0.8A                                |
+|
 
 
 
