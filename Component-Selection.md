@@ -11,7 +11,7 @@ DRV8220DRLR
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 | DRV8220DRLR / Price: 0.93  | 4.5-V to 18-V operating supply voltage range                           | Features of the pins do not allow it to be easily soldered on|
 |Vendor:Texas Instruments   | Multiple interfaces for flexibility and reduced GPIO                                  |Limited towards PWM interface                   |
-
+| ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 
 
 
@@ -19,7 +19,7 @@ DRV8220DRLR
 | ------------- | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 | A3909GLNTR-T / Price 1.50 | Overcurrent protection, Output to supply short, Output to GND short, Output load short|Priced excessively high for its quality         |
 | Vendor: Allegro Microsystems  | Drives two DC motors or single stepper motor       |Uses Logic interface and does not indicate the use of SPI or I2C               |
-
+| <img src="photosandvideos/A3909GLNTR-T.jpg"> | --------------------------------------------------------------------------------------|---------------------------------------------------------   |
 
 
 
@@ -180,7 +180,7 @@ Team Member: Dylan Turner
 |--|--|--|
 |MAX17626ATA+T/ Price: $1.45  |Simple looking design, and will be easy to use. |No side panels makes continuity harder to check |
 |Vendor: Mouser |2 Amp output  |8 pins for that package type makes it harder to tell what's wrong with it. |
-| |Wide operating a temperature that mirrors sensors (-40 to 125℃) | |
+|<img src="photosandvideos/700-MAX17626ATA_plus_T_t.webp"> |Wide operating a temperature that mirrors sensors (-40 to 125℃) | |
 | |Low power dissipation (937.9mW) | |
 | | | |
 
