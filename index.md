@@ -21,7 +21,7 @@ Below you will find our relevant links and Assignments ↓↓↓
 
 [**Our Team Introduction**](Introduction.md)
 
-# Assignment 1
+
 
 ## Team Charter
 
@@ -55,9 +55,9 @@ and overall device readiness of its subsystems. Success will be measured through
 robust, high quality device with straightforward and convenient operation for the end user.
 
 
-[**Assignment 2 (User Needs and Benchmarking)**](User-needs.md)
+[**Assignment (User Needs and Benchmarking)**](User-needs.md)
 
-# Assignment 2
+
 
 ## Introduction 
 
@@ -683,11 +683,11 @@ Pros:
 Cons:
 |Component |Pros |Cons |
 |--|--|--|
-|Texas Instruments TMP75B-Q1/ Price: $2.04 |Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) |
+|Texas Instruments TMP75B-Q1/ Price: $2.04 | Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) | |
 |Vendor: Mouser |Simplistic circuitry required for operation |Certain exccesive features may not be utilized |
-| <img src = "photosandvideos/TMP75B.webp">             |12 Bits of Resolution |Vendor has unpredictable shipment time |
-|               |Lower cost | |
-|               |Uses I2C interface | |
+| <img src = "photosandvideos/TMP75B.webp"> |12 Bits of Resolution |Vendor has unpredictable shipment time |
+| |Lower cost | |
+| |Uses I2C interface | |
 | |Low current (10µA)| |
 
 
