@@ -679,11 +679,10 @@ Rationale: The best component found for the motor was the PC280LG-303 from Johns
 Temperature Sensor
 Team Member: Samuel Striffler
 Component:
-Pros:
-Cons:
+
 |Component |Pros |Cons |
 |--|--|--|
-|Texas Instruments TMP75B-Q1/ Price: $2.04 | Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) | |
+|Texas Instruments TMP75B-Q1/ Price: $2.04 | Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) |
 |Vendor: Mouser |Simplistic circuitry required for operation |Certain exccesive features may not be utilized |
 | <img src = "photosandvideos/TMP75B.webp"> |12 Bits of Resolution |Vendor has unpredictable shipment time |
 | |Lower cost | |
