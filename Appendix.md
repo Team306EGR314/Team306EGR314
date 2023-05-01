@@ -1,1 +1,3 @@
-This is our appendix
+**Appendix A: Team Organization**
+
+*Communication Channels*
