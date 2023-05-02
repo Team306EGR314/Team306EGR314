@@ -640,7 +640,7 @@ Given a second chance, our team would want to implement more efficient code that
 
 <img src="photosandvideos/Team 306 Schematic.png">
 
-Fig. 16  Hardware Proposal
+*Fig. 16  Hardware Proposal*
 
 Microcontroller ESP32, and Switching regulator (Top Right)
 	This part of the schematic includes the switching regulator, and microcontrollers. The device will be powered by the regulator TPS564247DRLR, which will aslo supply power to the PIC18F15Q41 and ESP32. The PIC will be programmed using the microchip Snap. The ESP32 module is used for WIFI access, and will be programmed using UART.
