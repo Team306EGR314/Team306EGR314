@@ -85,15 +85,14 @@ Rationale: The best component found for the motor was the PC280LG-303 from Johns
 Temperature Sensor
 Team Member: Samuel Striffler
 Component:
-Pros:
-Cons:
+
 |Component |Pros |Cons |
 |--|--|--|
-|Texas Instruments TMP75B-Q1/ Price: $2.04 |Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) |
+|Texas Instruments TMP75B-Q1/ Price: $2.04 | Designed for an industrial application |Not as accurate of a sensor reading (+/- 1.0℃) |
 |Vendor: Mouser |Simplistic circuitry required for operation |Certain exccesive features may not be utilized |
-| <img src = "photosandvideos/TMP75B.webp">             |12 Bits of Resolution |Vendor has unpredictable shipment time |
-|               |Lower cost | |
-|               |Uses I2C interface | |
+| <img src = "photosandvideos/TMP75B.webp"> |12 Bits of Resolution |Vendor has unpredictable shipment time |
+| |Lower cost | |
+| |Uses I2C interface | |
 | |Low current (10µA)| |
 
 
@@ -231,4 +230,3 @@ Team Member: Dylan Turner
 Final Selection: TPS564247DRLR
 
 Rationale: TPS564247DRLR because it has a high output amperage that can satisfy any current needs our motor may have. The footprint is conducive to soldering onto our group pcb, and all of these come at a very affordable price for our budget.
-
