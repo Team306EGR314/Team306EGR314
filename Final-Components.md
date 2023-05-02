@@ -1,10 +1,7 @@
+|PART INFO|RATIONALE|
+|--------|---------|
 |IFX 9201S GAUMA1 Manufacturer: Infineon Technologies Price: $3.86 Vendor: Digikey|For the motor driver the optimal solution is the IFX 9201S GAUMA1. It has acceptable range with its power, and numerous fail-safes that allow for continued use under certain circumstances if more power is to be imputed or outputted. It also uses the correct digital interface used that is part of the project. As well as this is the same motor driver used within the class and has all the key features within this part that allow for the best comprehensive performance. This was the best choice overall.|
-
 |PC280LG-303 Manufacturer: Johnson Motor Price: $4.78 Vendor: Digikey|The best component found for the motor was the PC280LG-303 from Johnson motor. This motor will allow for movement within our project to perform more efficiently. This is also a very effective motor in terms of its cost. Its size and its performance being just powered by 3VDC overall made this the best option. |
-
-
 |Texas Instruments TMP75B-Q1 Manufacturer: Texas Instruments Price: $2.04 Vendor: Mouser Electronics|implementation, lower power need, and utilizes the correct interface for the project. While betsensors can be purchased, this offers less areas for failures in the circuitry, and provides more than adequate output to portray relevant information for the end user and to trigger the venting function we want to implement in our weather station design.|
-
 | SHTC3-TR-10KS Humidity and Temperature Sensor Manufacturer: Sensirion AG Price: $3.04 Vendor: Digikey |The rationale behind choosing the SHTC3-TR-10KS Humidity and Temperature Sensor was due to the sensor adequately reaching all the hard requirements while having very few disadvantages. The sensor is able to properly use a 16b output with its humidity readings being fairly accurate. In addition, it is able to use I^2C to speak to the MCU and stay within the 3.3V supply of all other subsystems used. Its only real downside is its high response time at 8 seconds, but that can be overlooked as it’ll just take a lil bit more to properly update.|
-
 |TPS564247DRLR Manufacturer: Texas Instruments Price: $1.29 Vendor: Mouser Electronics|TPS564247DRLR because it has a high output amperage that can satisfy any current needs our motor may have. The footprint is conducive to soldering onto our group pcb, and all of these come at a very affordable price for our budget.|
