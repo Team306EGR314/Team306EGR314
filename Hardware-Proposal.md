@@ -40,13 +40,13 @@ Back Plane:
 
 Front Plane:
 
-<img src="photosandvideos/pcb_photo_top.png">
+<img src="photosandvideos/pcb_photo_top.jpg">
 
 *Fig. 20 Top PCB (Photo)*
 
 Back Plane:
 
-<img src="photosandvideos/pcb_photo_bottom.png">
+<img src="photosandvideos/pcb_photo_bottom.jpg">
 
 *Fig. 21  Bottom PCB (Photo)*
 
