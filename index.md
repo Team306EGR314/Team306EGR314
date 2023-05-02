@@ -7,6 +7,16 @@
 
  **Travis Kelley**
 
+
+Our Team members are:
+Jedriq Ventura, Sam Stiffler, Nathan Hoge, Dylan Turner
+
+This Website will follow our 314 course, and will highlight our assignments.
+
+
+Below you will find our relevant links and Assignments ↓↓↓
+
+
   # Table of Contents
   
   * [Team Charter](#team-charter)
@@ -53,16 +63,6 @@
 - [Future Recommendations](#future-recommendations)
 - [Resources](#resources-1)
 - [Appendix](#appendix) 
-
-
-Our Team members are:
-Jedriq Ventura, Sam Stiffler, Nathan Hoge, Dylan Turner
-
-This Website will follow our 314 course, and will highlight our assignments.
-
-
-Below you will find our relevant links and Assignments ↓↓↓
-
 [**Our Team Introduction**](Introduction.md)
 
 
