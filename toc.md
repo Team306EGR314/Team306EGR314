@@ -35,5 +35,3 @@
 - [Concept 2](#concept-2)
 - [Concept 3](#concept-3)
 - [Our Process](#our-process-1)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
