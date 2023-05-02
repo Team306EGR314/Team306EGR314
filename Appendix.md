@@ -248,3 +248,14 @@ Motor Driver (Bottom Portion)
 	Receiving power from the switching regulator, this will be programmed using SPI, The motor will receive information from the PIC18F15Q41 from the sensors, this will tell the motor when and how to move. The motor ideally will open the hatch on the module when the humidity and temperature get too high. The idea is that when cold air rushes in, it will lower both criteras and then the motor will close the hatch.
 
 **Appendix G: Software Proposal**
+
+<img src="photosandvideos/Software Proposal.drawio.png">
+
+*Fig. 17  Software Proposal*
+
+<img src="photosandvideos/QR Software.png">
+
+When the device turns on according to our proposal, it will initialize its systems, and ready its peripherals. After that it will 
+first try to address the separate devices attached. If the device can’t connect to the separate devices it will keep trying to call 
+to them. When the device does connect it will measure the temperature and humidity and decide what to tell the motor. A ( Turn and 
+open the hatch) or B (Keep it closed). The device will then keep refreshing till any changes. 
