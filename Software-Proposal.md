@@ -7,9 +7,13 @@ Based on Fig. 17, our device begins by initializing the system. This includes se
 ##Top 5 Changes
 
 The first change our team would implement would be to use proper I2C interrupts. Using proper interrupts would allow the code to run as smoothly as possible when talking with the I2C sensors.
+
 The second change our team would make is to have higher integration with both sensors. As the code is, the only checked value is the temperature, with humidity being only as a readout. Having both integrated to the code to cause function would be optimal.
+
 The third change our team would integrate would be the use of #define. Using this function would allow us as a team to streamline the constant call of the hexadecimal addresses to just simple letter phrases. 
+
 The fourth change our team would pursue would be the proper implementation of MQTT. Having MQTT implemented properly into our code would allow us as a team to observe the ESP32 as it gathers information from our microcontroller. This is necessary because it’s a requirement for the course. 
+
 The fifth change our team would implement would be the more prolific use of comments. Using comments would better log on what each block of code is doing or to what is expected out of the code. In addition, comments could help us in debugging on where the code could possibly be failing. 
 
 ##Version 2.0
