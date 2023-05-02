@@ -698,7 +698,9 @@ A breadboard phase would be extremely beneficial for the project, and a good rec
 
 **System Verification**
 
-<img src="EGR 314 Team 306 Verification Table.pdf">
+*Table 7
+Final Verification Table*
+<img src="photosandvideos/Team_306_veri_table.png">
 
 ## Lessons Learned
 1. We learned a lot about vias and their limitations in overall pcb design.
