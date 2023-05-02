@@ -605,7 +605,7 @@ microcontroller itself.
 *Fig. 17  Software Proposal*
 
 <img src="photosandvideos/QR Software.png">
-*Fig. 17  Software Proposal*
+
 
 Based on Fig. 17, our device begins by initializing the system. This includes setting the hardware registers, resetting all internal variables, and establishing communication with the ESP32 and sensors. Once finished, the next step in the code is to enable interrupts. After that is done, the software code acquires the I2C addresses for both the temperature and humidity sensors and then writes out a byte to initialize both sensors. If no byte is returned, the code keeps trying until a byte is received from both sensors. If the byte value is acquired, the software then check the write out by the sensors. If either the temperature is below 80F and the humidity sensor is below 60%rh, the code tells the motor to spin clockwise, closing the vent. If either value exceeds the 80F or 60%rh, the code instructs the motor to drive counterclockwise, opening the vent. Once humidity and temperature drop below these values, the microcontroller will activate the motor to move clockwise, resealing the vent. This loop is monitored via UART which is sent out to both puTTY and MQTT.
 
