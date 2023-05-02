@@ -547,6 +547,8 @@ It was better to have the ideas but holding to them was way harder. Because we h
 
 **Selected Design**
 
+<img src="photosandvideos/314_FINAL_RENDER.jfif">
+
 Final Choice
 
 After deliberating between all group members, the final decision was made that design concept two would be the best option for 
