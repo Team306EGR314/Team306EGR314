@@ -700,5 +700,31 @@ A breadboard phase would be extremely beneficial for the project, and a good rec
 
 <img src="EGR 314 Team 306 Verification Table.pdf">
 
+## Lessons Learned
+1. We learned a lot about vias and their limitations in overall pcb design.
+2. We learned about many important parts of the design layout of the switching regulator and TI application parts.
+3. We learned the importance of trying to keep things as simple as possible for both functionality and assembly of the pcb.
+4. Cadence has many advantages and very specific disadvantages that we learned to facilitate more efficient work through the project.
+5. We had to familiarize ourselves with proper usage of flyback diodes when implementing them in our motor driver system.
+6. Size matters on everything, the smaller the component the more trouble you’re going to have, and going slightly larger on traces may be a saving grace.
+7. We learned through failure how to properly avoid pcb manufacturing troubles within the actual tolerances, dimensions, and layout.
+8. A large, yet simple thing we became aware of was the importance of distance to ground and how that can affect the systems on a pcb.
+9. We learned the importance of understanding necessary components for I2C communication and how they will affect coding.
+10. We had to develop our understanding of the Thonny interface and how to make it accept new code when working with the ESP32.
+
+## Future Recommendations
+1. Try to mess with Cadence in one’s free time early into the course in order to try and gain a better base comprehension for future use.
+2. Take time and research footprints of surface mount parts early into the course to understand the issues that must be addressed in the final design.
+3. Focus on trying to have everyone work together on each subsystem as multiple pairs of eyes save a lot of mistakes and revisions.
+4. Note the physical dimensioning of everything from electronic parts to the board to the motor to make the final project outcome go together more seamlessly.
+5. Read all feedback and actively change the submissions as feedback is received. It allows for more forward progress on the project.
+
+## Resources
+“How to write a product requirements document (PRD) - with free template,” Formlabs. [Online]. Available: https://formlabs.com/blog/product-requirements-document-prd-with-template/. [Accessed: 22-Jan-2023]. 
+
+
+
+
 [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
+
 
