@@ -1,6 +1,6 @@
 **Appendix A: Team Organization**
 
-##Communication Procedures
+##Communication Procedures##
 
 1. Meetings are preferred in person to discuss the objectives of the project as well as future meetings in advance. Texting group chats will be the primary form of communication. Discord will be used as the secondary form of communication. 
 
@@ -8,12 +8,13 @@
 
 3. Contingency plan for the project’s success would have each subsystem assigned a ‘secondary’ partner that can help in case of problems that may arise.
 
-##Meeting Schedule
+##Meeting Schedule##
+
  *Table 12*
  *Meeting Schedule*
 <img src="photosandvideos/Meeting Schedule.png">
 
-##Team Coordination
+##Team Coordination##
 
 1. We will use text messages or text-group chats to remind ourselves of the meetings and the time they will occur.
 
@@ -24,6 +25,7 @@
 4. If the meeting is cut-short or has ended earlier for a group member that had a prior engagement in another group or school-related activity, we as the attending members will summarize the topics discussed and relay the information back to the group member in a timely and orderly manner, this can be done either via text or email documenting.
 
 **Appendix B: Final Design CAD Model**
+
 <img src="photosandvideos/314_FINAL_RENDER.jfif">
 
 **Appendix C: Microcontroller Selection**
@@ -31,4 +33,111 @@
 <img src="photosandvideos/Microcontroller Selection 2.png">
 <img src="photosandvideos/Microcontroller Selection 3.png">
 <img src="photosandvideos/Microcontroller Selection 4.png">
+<img src="photosandvideos/Microcontroller Selection 5.png">
 
+Rationale: The reason for this is because of the cost of the part compared to the rest. And that the component had covered most of the requirements needed. This allows it to be more flexible with conversion between SPI and I2C. 
+
+**Appendix D: BOM**
+
+<img src="photosandvideos/BOM.png">
+
+**Appendix E: MCC and Code**
+##Group Final Code:##
+
+#include "mcc_generated_files/mcc.h"
+#include <stdio.h>
+#include <stdint.h>
+#include <stdbool.h>
+#include "mcc_generated_files/i2c1_master.h"
+#include <string.h>
+#include "mcc_generated_files/mcc.h"
+#include "mcc_generated_files/uart1.h"
+#include "mcc_generated_files/examples/i2c1_master_example.h"
+/*
+                         Main application
+ */
+char receive[100];
+char dir1[100];
+char dir2[100];
+volatile uint8_t words; 
+float values;
+int ii;
+volatile uart1_status_t rxStatus;
+double Temp = 0;
+double Hum = 0;
+uint8_t dbuff[8];
+uint8_t sbuff[8];
+uint16_t tconv = 0;
+uint16_t hconv = 0;
+
+void UART1_Recieve_ISR(void) {
+    UART1_Receive_ISR();
+    if (UART1_is_rx_ready()) {
+        words = UART1_Read();
+    }
+    if (UART1_is_tx_ready()) {
+        LED_Toggle();
+        UART1_Write(words);
+    }
+}
+void main(void)
+{
+    // Initialize the device
+    SYSTEM_Initialize();
+    UART1_Initialize();
+    SPI1_Initialize();
+    INTERRUPT_GlobalInterruptEnable();
+    UART1_SetRxInterruptHandler(UART1_Recieve_ISR);
+    while (1)
+    {
+            dir1[0] = 0b11001111;
+            dir2[0] = 0b11001101;
+        //we want to trigger the chip to take a 'measurement' and wait for that to happen;
+        I2C1_ReadNBytes(0x37, dbuff, 1);
+        __delay_ms(100);
+        I2C1_ReadNBytes(0x70, sbuff, 1);
+        __delay_ms(100); 
+        I2C1_ReadNBytes(0x37, dbuff, 8);
+        __delay_ms(100);
+        I2C1_ReadNBytes(0x70, sbuff, 8);
+        tconv = (dbuff[0] << 8 | dbuff[1]) & 0x7F;
+        hconv = (sbuff[0] << 8 | sbuff[1]) & 0x70;
+        Hum = (hconv/65536.0);
+        Temp = (tconv * 0.625);
+        printf("The Temperature is %f %% \r\n", Temp);
+        printf("The Humidity is %f %% \r\n", Hum);
+      if(Temp<=80) { 
+        SPI1_Open(SPI1_DEFAULT);
+        ss_pin_SetLow();
+        printf("Send: %s\r\n",dir1);
+          SPI1_ExchangeBlock(dir1,1);
+         receive[0]= dir1[0];
+        printf("Receive: %c\r\n",receive[0]);
+        ss_pin_SetHigh();
+        SPI1_Close();
+        __delay_ms(50);
+      }
+      if(Temp>=80){
+        SPI1_Open(SPI1_DEFAULT);
+        ss_pin_SetLow();
+        printf("Send: %s\r\n",dir2);
+        SPI1_ExchangeBlock(dir2,1);
+        receive[0]= dir2[0];
+        printf("Receive: %s\r\n",receive);
+        ss_pin_SetHigh();
+        SPI1_Close();
+        __delay_ms(50);
+    }    
+    }
+}
+
+##Final MCC For Project##
+
+<img src="photosandvideos/pin package.png">
+<img src="photosandvideos/pin manager.png">
+<img src="photosandvideos/interrupt.png">
+<img src="photosandvideos/system.png">
+<img src="photosandvideos/I2C.png">
+<img src="photosandvideos/SPI.png">
+<img src="photosandvideos/UART.png">
+<img src="photosandvideos/Pin module.png">
