@@ -588,7 +588,7 @@ microcontroller itself.
 
 
 
-<img src="photosandvideos/Block Diagram-314.drawio (1).png">
+<img src="photosandvideos/updated_block_diagram_314.png">
 
 *Fig. 14  Block diagram*
 
@@ -600,7 +600,7 @@ microcontroller itself.
 
 [**Assignment 9 (Software Proposal**)](Software-Proposal.md)
 
-<img src="photosandvideos/updated_block_diagram_314.png">
+<img src="photosandvideos/Software Proposal.drawio.png">
 
 *Fig. 17  Software Proposal*
 
