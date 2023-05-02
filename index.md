@@ -51,7 +51,7 @@
 - [Lessons Learned](#lessons-learned)
 - [Future Recommendations](#future-recommendations)
 - [Resources](#resources-1)
-- [[**Appendix (Other Relevant Links to the Project)**](Appendix.md)](#---appendix--other-relevant-links-to-the-project-----appendixmd-) 
+- [Apendix](#apendix) 
 
 
 Our Team members are:
@@ -767,8 +767,8 @@ Final Verification Table*
 “How to write a product requirements document (PRD) - with free template,” Formlabs. [Online]. Available: https://formlabs.com/blog/product-requirements-document-prd-with-template/. [Accessed: 22-Jan-2023]. 
 
 
+# Appendix
 
-
-# [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
+[**Appendix (Other Relevant Links to the Project)**](Appendix.md)
 
 
