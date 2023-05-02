@@ -696,5 +696,9 @@ For manufacturing considerations, we definitely prefer to have the board made by
 
 A breadboard phase would be extremely beneficial for the project, and a good recommendation would be an optional solder mount of your own part (for the surface mount ICC), to encourage early order forms. 
 
+**System Verification**
+
+<img src="EGR 314 Team 306 Verification Table.pdf">
+
 [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
 
