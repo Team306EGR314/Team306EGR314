@@ -576,7 +576,7 @@ obtain necessary durability.
 
 [**Assignment 5 (Block Diagram**)](Block-Diagram.md)
 
-**Block Diagram**
+# Block Diagram
 
 The block diagram’s construction began with the fundamental understanding that two digital sensors, a motor driver with motor, a 
 wifi module, buck converter, and microcontroller. Starting with the microcontroller, our team chose the PIC18F15Q41 due to its 
@@ -606,7 +606,7 @@ microcontroller itself.
 
 <img src = "photosandvideos/QR power budget.png">
 
-**Software Implementation**
+# Software Implementation
 
 [**Assignment 9 (Software Implementation**)](Software-Proposal.md)
 
@@ -636,7 +636,7 @@ Given a second chance, our team would want to implement more efficient code that
 
 [**Assignment 10 (Hardware Implementation**)](Hardware-Proposal.md)
 
-**Hardware Implemenation**
+# Hardware Implemenation
 
 <img src="photosandvideos/Team 306 Schematic.png">
 
@@ -647,7 +647,6 @@ Microcontroller ESP32, and Switching regulator (Top Right)
 
 Temperature Sensor (Top Left)
 	Receiving power from the switching regulator, this will be programmed using I2C. This will collect data inside the module. The info received will be in Celsius or Farenheit. This data will be sent back to the PIC microcontroller.
-
 
 
 Humidity Sensor (Left middle)
@@ -696,13 +695,13 @@ For manufacturing considerations, we definitely prefer to have the board made by
 
 A breadboard phase would be extremely beneficial for the project, and a good recommendation would be an optional solder mount of your own part (for the surface mount ICC), to encourage early order forms. 
 
-**System Verification**
+# System Verification
 
 *Table 7
 Final Verification Table*
 <img src="photosandvideos/Team_306_veri_table.png">
 
-## Lessons Learned
+# Lessons Learned
 1. We learned a lot about vias and their limitations in overall pcb design.
 2. We learned about many important parts of the design layout of the switching regulator and TI application parts.
 3. We learned the importance of trying to keep things as simple as possible for both functionality and assembly of the pcb.
@@ -714,19 +713,19 @@ Final Verification Table*
 9. We learned the importance of understanding necessary components for I2C communication and how they will affect coding.
 10. We had to develop our understanding of the Thonny interface and how to make it accept new code when working with the ESP32.
 
-## Future Recommendations
+# Future Recommendations
 1. Try to mess with Cadence in one’s free time early into the course in order to try and gain a better base comprehension for future use.
 2. Take time and research footprints of surface mount parts early into the course to understand the issues that must be addressed in the final design.
 3. Focus on trying to have everyone work together on each subsystem as multiple pairs of eyes save a lot of mistakes and revisions.
 4. Note the physical dimensioning of everything from electronic parts to the board to the motor to make the final project outcome go together more seamlessly.
 5. Read all feedback and actively change the submissions as feedback is received. It allows for more forward progress on the project.
 
-## Resources
+# Resources
 “How to write a product requirements document (PRD) - with free template,” Formlabs. [Online]. Available: https://formlabs.com/blog/product-requirements-document-prd-with-template/. [Accessed: 22-Jan-2023]. 
 
 
 
 
-[**Appendix (Other Relevant Links to the Project)**](Appendix.md)
+# [**Appendix (Other Relevant Links to the Project)**](Appendix.md)
 
 
