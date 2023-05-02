@@ -7,7 +7,7 @@
 
  **Travis Kelley**
 
-  #Table of Contents
+  # Table of Contents
   
   * [Team Charter](#team-charter)
     + [Charter](#charter)
@@ -52,7 +52,7 @@
 - [Lessons Learned](#lessons-learned)
 - [Future Recommendations](#future-recommendations)
 - [Resources](#resources-1)
-- [Appendix](#appendix-1) 
+- [Appendix](#appendix) 
 
 
 Our Team members are:
