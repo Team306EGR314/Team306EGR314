@@ -52,7 +52,7 @@
 - [Lessons Learned](#lessons-learned)
 - [Future Recommendations](#future-recommendations)
 - [Resources](#resources-1)
-- [Apendix](#apendix-1) 
+- [Appendix](#appendix-1) 
 
 
 Our Team members are:
